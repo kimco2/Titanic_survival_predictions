@@ -1,16 +1,16 @@
 # Predicting who survived the Titanic
 
-## Purpose
+### **Purpose**
 Analyse the titanic dataset and create an algorithm that predicts which passengers survived.
 
-## Data source
+### **Data source**
 The complete titanic dataset available on [kaggle](https://www.kaggle.com/datasets/vinicius150987/titanic3) will be used.  It includes a total of 1309 passengers.
 
-## Objectives
+### **Objectives**
 - Understand the composition of passengers and the composition of those who survived compared to those who died.
 - Use supervised learning to create a classification model to predict which passengers survived.
 
-## High level overview
+### **High level overview**
 1. Data available in xls format
 2. Clean and manipulate data in python
 3. Create supervised learning classification models and optimise them. Currently thinking about:
