@@ -1,5 +1,9 @@
 # Predicting who survived the Titanic
 
+dashboards available:
+https://kimco2.github.io/who_survived_the_titanic/1
+
+
 ### **Purpose**
 Analyse the titanic dataset and create an algorithm that predicts which passengers survived.
 
