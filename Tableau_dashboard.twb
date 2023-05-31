@@ -24,7 +24,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='the_titanic' path='/workbooks' revision='2.1' />
+  <repository-location id='the_titanic' path='/workbooks' revision='2.3' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -816,20 +816,20 @@
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <style>
         <style-rule element='mark'>
-          <encoding attr='color' field='[none:sex:nk]' type='palette'>
-            <map to='#a5cfe9'>
-              <bucket>&quot;male&quot;</bucket>
-            </map>
-            <map to='#ed97ca'>
-              <bucket>&quot;female&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:survived:nk]' type='palette'>
             <map to='#79aacf'>
               <bucket>&quot;Survived&quot;</bucket>
             </map>
             <map to='#d5d5d5'>
               <bucket>&quot;Did not survive&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:sex:nk]' type='palette'>
+            <map to='#a5cfe9'>
+              <bucket>&quot;male&quot;</bucket>
+            </map>
+            <map to='#ed97ca'>
+              <bucket>&quot;female&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -1935,8 +1935,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='95' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='94' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='103' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='102' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='7625' id='10' type-v2='text' w='36100' x='1800' y='1500'>
                   <formatted-text>
                     <run bold='true' fontcolor='#ffffff' fontname='Tableau Bold' fontsize='26'>Titanic Passengers</run>
@@ -2128,8 +2128,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='106' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='105' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='114' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='113' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='7875' id='38' type-v2='dashboard-object' w='18500' x='-1900' y='2500'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{4716D967-EE67-4EA7-950A-2544CB01A60A}&quot;'>
                     <button-visual-state>
@@ -2390,7 +2390,7 @@
       </viewpoint>
       <simple-id uuid='{E11D7042-0DC5-4C31-BDF3-C20DC4F487E1}' />
     </window>
-    <window class='dashboard' name='Overview'>
+    <window class='dashboard' maximized='true' name='Overview'>
       <viewpoints>
         <viewpoint name='Age by gender'>
           <zoom type='entire-view' />
@@ -2416,7 +2416,7 @@
       <grid grid-overlay-mode='on' />
       <simple-id uuid='{4716D967-EE67-4EA7-950A-2544CB01A60A}' />
     </window>
-    <window class='dashboard' maximized='true' name='Survival'>
+    <window class='dashboard' name='Survival'>
       <viewpoints>
         <viewpoint name='survival by age'>
           <zoom type='entire-view' />
