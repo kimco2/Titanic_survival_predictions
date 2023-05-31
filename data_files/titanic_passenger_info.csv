@@ -1,0 +1,1310 @@
+passenger_id,pclass_updated,name,sex,age_updated,sibsp,parch,ticket,fare_updated,cabin,embarked_updated,home_dest_updated,deck
+1,First class,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,Southampton (UK),"St Louis, MO",B
+2,First class,"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,C22 C26,Southampton (UK),"Montreal, PQ / Chesterville, ON",C
+3,First class,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,Southampton (UK),"Montreal, PQ / Chesterville, ON",C
+4,First class,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,113781,151.55,C22 C26,Southampton (UK),"Montreal, PQ / Chesterville, ON",C
+5,First class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,151.55,C22 C26,Southampton (UK),"Montreal, PQ / Chesterville, ON",C
+6,First class,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,E12,Southampton (UK),"New York, NY",E
+7,First class,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,Southampton (UK),"Hudson, NY",D
+8,First class,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,Southampton (UK),"Belfast, NI",A
+9,First class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,Southampton (UK),"Bayside, Queens, NY",C
+10,First class,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,,Cherbourg (FR),"Montevideo, Uruguay",Unknown
+11,First class,"Astor, Col. John Jacob",male,47.0,1,0,PC 17757,227.525,C62 C64,Cherbourg (FR),"New York, NY",C
+12,First class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,Cherbourg (FR),"New York, NY",C
+13,First class,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,Cherbourg (FR),"Paris, France",B
+14,First class,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,,Southampton (UK),Unknown,Unknown
+15,First class,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,A23,Southampton (UK),"Hessle, Yorks",A
+16,First class,"Baumann, Mr. John D",male,41.0,0,0,PC 17318,25.925,,Southampton (UK),"New York, NY",Unknown
+17,First class,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,Cherbourg (FR),"Montreal, PQ",B
+18,First class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,Cherbourg (FR),"Montreal, PQ",B
+19,First class,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,Cherbourg (FR),Unknown,D
+20,First class,"Beattie, Mr. Thomson",male,36.0,0,0,13050,75.2417,C6,Cherbourg (FR),"Winnipeg, MN",C
+21,First class,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,D35,Southampton (UK),"New York, NY",D
+22,First class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,Southampton (UK),"New York, NY",D
+23,First class,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,Cherbourg (FR),"New York, NY",C
+24,First class,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,,Cherbourg (FR),Unknown,Unknown
+25,First class,"Bird, Miss. Ellen",female,29.0,0,0,PC 17483,221.7792,C97,Southampton (UK),Unknown,C
+26,First class,"Birnbaum, Mr. Jakob",male,25.0,0,0,13905,26.0,,Cherbourg (FR),"San Francisco, CA",Unknown
+27,First class,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,Cherbourg (FR),"Dowagiac, MI",B
+28,First class,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,Cherbourg (FR),"Dowagiac, MI",B
+29,First class,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,Southampton (UK),Unknown,C
+30,First class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,C52,Southampton (UK),"Stockholm, Sweden / Washington, DC",C
+31,First class,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,T,Southampton (UK),"Trenton, NJ",T
+32,First class,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,A31,Cherbourg (FR),"Glen Ridge, NJ",A
+33,First class,"Bonnell, Miss. Caroline",female,30.0,0,0,36928,164.8667,C7,Southampton (UK),"Youngstown, OH",C
+34,First class,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,Southampton (UK),"Birkdale, England Cleveland, Ohio",C
+35,First class,"Borebank, Mr. John James",male,42.0,0,0,110489,26.55,D22,Southampton (UK),"London / Winnipeg, MB",D
+36,First class,"Bowen, Miss. Grace Scott",female,45.0,0,0,PC 17608,262.375,,Cherbourg (FR),"Cooperstown, NY",Unknown
+37,First class,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,Southampton (UK),"St Leonards-on-Sea, England Ohio",E
+38,First class,"Bradley, Mr. George (""George Arthur Brayton"")",male,41.0,0,0,111427,26.55,,Southampton (UK),"Los Angeles, CA",Unknown
+39,First class,"Brady, Mr. John Bertram",male,41.0,0,0,113054,30.5,A21,Southampton (UK),"Pomeroy, WA",A
+40,First class,"Brandeis, Mr. Emil",male,48.0,0,0,PC 17591,50.4958,B10,Cherbourg (FR),"Omaha, NE",B
+41,First class,"Brewe, Dr. Arthur Jackson",male,41.0,0,0,112379,39.6,,Cherbourg (FR),"Philadelphia, PA",Unknown
+42,First class,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,Cherbourg (FR),"Denver, CO",B
+43,First class,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,11769,51.4792,C101,Southampton (UK),"Belmont, MA",C
+44,First class,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,11813,76.2917,D15,Cherbourg (FR),"Philadelphia, PA",D
+45,First class,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,Cherbourg (FR),Unknown,E
+46,First class,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,Southampton (UK),"Washington, DC",B
+47,First class,"Cairns, Mr. Alexander",male,41.0,0,0,113798,31.0,,Southampton (UK),Unknown,Unknown
+48,First class,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,E24,Southampton (UK),"New York, NY",E
+49,First class,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,PC 17606,27.4458,,Cherbourg (FR),"Washington, DC",Unknown
+50,First class,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg (FR),"Austria-Hungary / Germantown, Philadelphia, PA",B
+51,First class,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg (FR),"Germantown, Philadelphia, PA",B
+52,First class,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,B51 B53 B55,Southampton (UK),"New York, NY",B
+53,First class,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,,Southampton (UK),"Montevideo, Uruguay",Unknown
+54,First class,"Carrau, Mr. Jose Pedro",male,17.0,0,0,113059,47.1,,Southampton (UK),"Montevideo, Uruguay",Unknown
+55,First class,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,Southampton (UK),"Bryn Mawr, PA",B
+56,First class,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,Southampton (UK),"Bryn Mawr, PA",B
+57,First class,"Carter, Mr. William Ernest",male,36.0,1,2,113760,120.0,B96 B98,Southampton (UK),"Bryn Mawr, PA",B
+58,First class,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,Southampton (UK),"Bryn Mawr, PA",B
+59,First class,"Case, Mr. Howard Brown",male,49.0,0,0,19924,26.0,,Southampton (UK),"Ascot, Berkshire / Rochester, NY",Unknown
+60,First class,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,37.0,0,0,17770,27.7208,,Cherbourg (FR),"New York, NY",Unknown
+61,First class,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,C46,Southampton (UK),"Little Onn Hall, Staffs",C
+62,First class,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,19877,78.85,C46,Southampton (UK),"Little Onn Hall, Staffs",C
+63,First class,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,Southampton (UK),"Amenia, ND",E
+64,First class,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1,0,W.E.P. 5734,61.175,E31,Southampton (UK),"Amenia, ND",E
+65,First class,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,53.1,E8,Southampton (UK),"New York, NY / Ithaca, NY",E
+66,First class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,E8,Southampton (UK),"New York, NY / Ithaca, NY",E
+67,First class,"Chaudanson, Miss. Victorine",female,36.0,0,0,PC 17608,262.375,B61,Cherbourg (FR),Unknown,B
+68,First class,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,Southampton (UK),"London, England",B
+69,First class,"Chevre, Mr. Paul Romaine",male,45.0,0,0,PC 17594,29.7,A9,Cherbourg (FR),"Paris, France",A
+70,First class,"Chibnall, Mrs. (Edith Martha Bowerman)",female,37.0,0,1,113505,55.0,E33,Southampton (UK),"St Leonards-on-Sea, England Ohio",E
+71,First class,"Chisholm, Mr. Roderick Robert Crispin",male,41.0,0,0,112051,0.0,,Southampton (UK),"Liverpool, England / Belfast",Unknown
+72,First class,"Clark, Mr. Walter Miller",male,27.0,1,0,13508,136.7792,C89,Cherbourg (FR),"Los Angeles, CA",C
+73,First class,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1,0,13508,136.7792,C89,Cherbourg (FR),"Los Angeles, CA",C
+74,First class,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,,Southampton (UK),Unknown,Unknown
+75,First class,"Clifford, Mr. George Quincy",male,41.0,0,0,110465,52.0,A14,Southampton (UK),"Stoughton, MA",A
+76,First class,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,E58,Southampton (UK),"Victoria, BC",E
+77,First class,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,Cherbourg (FR),"Lakewood, NJ",E
+78,First class,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,PC 17756,83.1583,E52,Cherbourg (FR),"Lakewood, NJ",E
+79,First class,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0,2,PC 17756,83.1583,E45,Cherbourg (FR),"Lakewood, NJ",E
+80,First class,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,11770,25.7,C101,Southampton (UK),"New York, NY",C
+81,First class,"Crafton, Mr. John Bertram",male,41.0,0,0,113791,26.55,,Southampton (UK),"Roachdale, IN",Unknown
+82,First class,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,Southampton (UK),"Milwaukee, WI",B
+83,First class,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,Southampton (UK),"Milwaukee, WI",B
+84,First class,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1,1,112901,26.55,B26,Southampton (UK),"Milwaukee, WI",B
+85,First class,"Cumings, Mr. John Bradley",male,39.0,1,0,PC 17599,71.2833,C85,Cherbourg (FR),"New York, NY",C
+86,First class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,Cherbourg (FR),"New York, NY",C
+87,First class,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,E17,Southampton (UK),"Lima, Peru",E
+88,First class,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,30.5,,Southampton (UK),"Philadelphia, PA",Unknown
+89,First class,"Daniels, Miss. Sarah",female,33.0,0,0,113781,151.55,,Southampton (UK),Unknown,Unknown
+90,First class,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,Southampton (UK),"Montreal, PQ",B
+91,First class,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,F.C. 12750,52.0,B71,Southampton (UK),"Montreal, PQ",B
+92,First class,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,Southampton (UK),"Calgary, AB",B
+93,First class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,B20,Southampton (UK),"Calgary, AB",B
+94,First class,"Dodge, Dr. Washington",male,53.0,1,1,33638,81.8583,A34,Southampton (UK),"San Francisco, CA",A
+95,First class,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,A34,Southampton (UK),"San Francisco, CA",A
+96,First class,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1,1,33638,81.8583,A34,Southampton (UK),"San Francisco, CA",A
+97,First class,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,106.425,C86,Cherbourg (FR),"Deephaven, MN / Cedar Rapids, IA",C
+98,First class,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,PC 17558,247.5208,B58 B60,Cherbourg (FR),"Montreal, PQ",B
+99,First class,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1,0,PC 17761,106.425,C86,Cherbourg (FR),"Deephaven, MN / Cedar Rapids, IA",C
+100,First class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,Cherbourg (FR),London / Paris,A
+101,First class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,Cherbourg (FR),London / Paris,A
+102,First class,"Dulles, Mr. William Crothers",male,39.0,0,0,PC 17580,29.7,A18,Cherbourg (FR),"Philadelphia, PA",A
+103,First class,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0,1,11767,83.1583,C54,Cherbourg (FR),"Mt Airy, Philadelphia, PA",C
+104,First class,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,Cherbourg (FR),"New York, NY",C
+105,First class,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,Cherbourg (FR),"Brookline, MA",D
+106,First class,"Evans, Miss. Edith Corse",female,36.0,0,0,PC 17531,31.6792,A29,Cherbourg (FR),"New York, NY",A
+107,First class,"Farthing, Mr. John",male,41.0,0,0,PC 17483,221.7792,C95,Southampton (UK),Unknown,C
+108,First class,"Flegenheim, Mrs. Alfred (Antoinette)",female,37.0,0,0,PC 17598,31.6833,,Southampton (UK),"New York, NY",Unknown
+109,First class,"Fleming, Miss. Margaret",female,37.0,0,0,17421,110.8833,,Cherbourg (FR),Unknown,Unknown
+110,First class,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,E25,Southampton (UK),"Brooklyn, NY",E
+111,First class,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,Cherbourg (FR),"New York, NY",C
+112,First class,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+113,First class,"Fortune, Miss. Ethel Flora",female,28.0,3,2,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+114,First class,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+115,First class,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+116,First class,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+117,First class,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1,4,19950,263.0,C23 C25 C27,Southampton (UK),"Winnipeg, MB",C
+118,First class,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,Cherbourg (FR),Unknown,E
+119,First class,"Franklin, Mr. Thomas Parham",male,41.0,0,0,113778,26.55,D34,Southampton (UK),"Westcliff-on-Sea, Essex",D
+120,First class,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,,Southampton (UK),"New York, NY",Unknown
+121,First class,"Frauenthal, Mr. Isaac Gerald",male,43.0,1,0,17765,27.7208,D40,Cherbourg (FR),"New York, NY",D
+122,First class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,37.0,1,0,PC 17611,133.65,,Southampton (UK),"New York, NY",Unknown
+123,First class,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,Cherbourg (FR),"Zurich, Switzerland",B
+124,First class,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,Cherbourg (FR),"Zurich, Switzerland",B
+125,First class,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1,1,13567,79.2,B41,Cherbourg (FR),"Zurich, Switzerland",B
+126,First class,"Fry, Mr. Richard",male,41.0,0,0,112058,0.0,B102,Southampton (UK),Unknown,B
+127,First class,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,Southampton (UK),"Scituate, MA",C
+128,First class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,Southampton (UK),"Scituate, MA",C
+129,First class,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,E63,Southampton (UK),"St Anne's-on-Sea, Lancashire",E
+130,First class,"Geiger, Miss. Amalie",female,35.0,0,0,113503,211.5,C130,Cherbourg (FR),Unknown,C
+131,First class,"Gibson, Miss. Dorothy Winifred",female,22.0,0,1,112378,59.4,,Cherbourg (FR),"New York, NY",Unknown
+132,First class,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,112378,59.4,,Cherbourg (FR),"New York, NY",Unknown
+133,First class,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,Cherbourg (FR),Unknown,B
+134,First class,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,Cherbourg (FR),"Paris, France / New York, NY",C
+135,First class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,37.0,1,0,17453,89.1042,C92,Cherbourg (FR),"Paris, France / New York, NY",C
+136,First class,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,Cherbourg (FR),"New York, NY",A
+137,First class,"Gracie, Col. Archibald IV",male,53.0,0,0,113780,28.5,C51,Cherbourg (FR),"Washington, DC",C
+138,First class,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,Southampton (UK),"Greenwich, CT",B
+139,First class,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,Southampton (UK),"Winnipeg, MB",C
+140,First class,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,Southampton (UK),"Greenwich, CT",C
+141,First class,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,Cherbourg (FR),"New York, NY",D
+142,First class,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0,1,PC 17759,63.3583,D10 D12,Cherbourg (FR),"New York, NY",D
+143,First class,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,79.2,B82 B84,Cherbourg (FR),"New York, NY",B
+144,First class,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,E50,Cherbourg (FR),"Brooklyn, NY",E
+145,First class,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,11765,55.4417,E50,Cherbourg (FR),"Brooklyn, NY",E
+146,First class,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,D33,Cherbourg (FR),"New York, NY",D
+147,First class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,Cherbourg (FR),"New York, NY",D
+148,First class,"Harrington, Mr. Charles H",male,41.0,0,0,113796,42.4,,Southampton (UK),Unknown,Unknown
+149,First class,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,Southampton (UK),"New York, NY",C
+150,First class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,Southampton (UK),"New York, NY",C
+151,First class,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,B94,Southampton (UK),Unknown,B
+152,First class,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,D49,Cherbourg (FR),Unknown,D
+153,First class,"Hawksford, Mr. Walter James",male,41.0,0,0,16988,30.0,D45,Southampton (UK),"Kingston, Surrey",D
+154,First class,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,Cherbourg (FR),"New York, NY",C
+155,First class,"Hays, Mr. Charles Melville",male,55.0,1,1,12749,93.5,B69,Southampton (UK),"Montreal, PQ",B
+156,First class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,Southampton (UK),"Montreal, PQ",B
+157,First class,"Head, Mr. Christopher",male,42.0,0,0,113038,42.5,B11,Southampton (UK),London / Middlesex,B
+158,First class,"Hilliard, Mr. Herbert Henry",male,41.0,0,0,17463,51.8625,E46,Southampton (UK),"Brighton, MA",E
+159,First class,"Hipkins, Mr. William Edward",male,55.0,0,0,680,50.0,C39,Southampton (UK),London / Birmingham,C
+160,First class,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,Cherbourg (FR),"Chicago, IL",B
+161,First class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,Cherbourg (FR),"Chicago, IL",B
+162,First class,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,Southampton (UK),"Hudson, NY",D
+163,First class,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,,Southampton (UK),"New York, NY",Unknown
+164,First class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,,Southampton (UK),"New York, NY",Unknown
+165,First class,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,,Cherbourg (FR),"Indianapolis, IN",Unknown
+166,First class,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,Southampton (UK),"New York, NY /  Stamford CT",C
+167,First class,"Hoyt, Mr. William Fisher",male,41.0,0,0,PC 17600,30.6958,,Cherbourg (FR),"New York, NY",Unknown
+168,First class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,Southampton (UK),"New York, NY /  Stamford CT",C
+169,First class,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,Southampton (UK),Unknown,B
+170,First class,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,C49,Cherbourg (FR),"Paris, France New York, NY",C
+171,First class,"Ismay, Mr. Joseph Bruce",male,49.0,0,0,112058,0.0,B52 B54 B56,Southampton (UK),Liverpool,B
+172,First class,"Jones, Mr. Charles Cresson",male,46.0,0,0,694,26.0,,Southampton (UK),"Bennington, VT",Unknown
+173,First class,"Julian, Mr. Henry Forbes",male,50.0,0,0,113044,26.0,E60,Southampton (UK),London,E
+174,First class,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,Cherbourg (FR),Unknown,C
+175,First class,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,Cherbourg (FR),"Buffalo, NY",B
+176,First class,"Kenyon, Mr. Frederick R",male,41.0,1,0,17464,51.8625,D21,Southampton (UK),"Southington / Noank, CT",D
+177,First class,"Kenyon, Mrs. Frederick R (Marion)",female,37.0,1,0,17464,51.8625,D21,Southampton (UK),"Southington / Noank, CT",D
+178,First class,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,D19,Southampton (UK),"Boston, MA",D
+179,First class,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,11753,52.5542,D19,Southampton (UK),"Boston, MA",D
+180,First class,"Klaber, Mr. Herman",male,41.0,0,0,113028,26.55,C124,Southampton (UK),"Portland, OR",C
+181,First class,"Kreuchen, Miss. Emilie",female,39.0,0,0,24160,211.3375,,Southampton (UK),Unknown,Unknown
+182,First class,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,Southampton (UK),"New York, NY",D
+183,First class,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,,Cherbourg (FR),Unknown,Unknown
+184,First class,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,B101,Cherbourg (FR),Unknown,B
+185,First class,"Lewy, Mr. Ervin G",male,41.0,0,0,PC 17612,27.7208,,Cherbourg (FR),"Chicago, IL",Unknown
+186,First class,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42.0,0,0,17475,26.55,,Southampton (UK),"Stockholm, Sweden",Unknown
+187,First class,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,112377,27.7208,,Cherbourg (FR),"Stockholm, Sweden",Unknown
+188,First class,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,Southampton (UK),"Paris, France",D
+189,First class,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0,1,PC 17592,39.4,D28,Southampton (UK),"Paris, France",D
+190,First class,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,Southampton (UK),"Springfield, MA",D
+191,First class,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,Southampton (UK),"Hudson, NY",D
+192,First class,"Loring, Mr. Joseph Holland",male,30.0,0,0,113801,45.5,,Southampton (UK),"London / New York, NY",Unknown
+193,First class,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,Cherbourg (FR),Unknown,B
+194,First class,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,Southampton (UK),"St Louis, MO",B
+195,First class,"Maguire, Mr. John Edward",male,30.0,0,0,110469,26.0,C106,Southampton (UK),"Brockton, MA",C
+196,First class,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,Southampton (UK),Unknown,B
+197,First class,"Marechal, Mr. Pierre",male,41.0,0,0,11774,29.7,C47,Cherbourg (FR),"Paris, France",C
+198,First class,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,Southampton (UK),"New York, NY",D
+199,First class,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,113773,53.1,D30,Southampton (UK),"New York, NY",D
+200,First class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,Cherbourg (FR),"Belgium  Montreal, PQ",C
+201,First class,"McCaffry, Mr. Thomas Francis",male,46.0,0,0,13050,75.2417,C6,Cherbourg (FR),"Vancouver, BC",C
+202,First class,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,Southampton (UK),"Dorchester, MA",E
+203,First class,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,E25,Southampton (UK),"Philadelphia, PA",E
+204,First class,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,,Cherbourg (FR),"New York, NY",Unknown
+205,First class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,37.0,1,0,PC 17604,82.1708,,Cherbourg (FR),"New York, NY",Unknown
+206,First class,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,Southampton (UK),"East Bridgewater, MA",E
+207,First class,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Queenstown (IE),"Fond du Lac, WI",C
+208,First class,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Queenstown (IE),"Green Bay, WI",C
+209,First class,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,Queenstown (IE),"Fond du Lac, WI",C
+210,First class,"Mock, Mr. Philipp Edmund",male,30.0,1,0,13236,57.75,C78,Cherbourg (FR),"New York, NY",C
+211,First class,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,C30,Southampton (UK),"Montreal, PQ",C
+212,First class,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,113796,42.4,,Southampton (UK),"Washington, DC",Unknown
+213,First class,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,Cherbourg (FR),"Brooklyn, NY",C
+214,First class,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,Cherbourg (FR),"Lexington, MA",D
+215,First class,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,Cherbourg (FR),"Lexington, MA",D
+216,First class,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,Cherbourg (FR),"Lexington, MA",D
+217,First class,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,Southampton (UK),"New York, NY",D
+218,First class,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,,Southampton (UK),"Isle of Wight, England",Unknown
+219,First class,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,PC 17758,108.9,C105,Cherbourg (FR),Unknown,C
+220,First class,"Omont, Mr. Alfred Fernand",male,41.0,0,0,F.C. 12998,25.7417,,Cherbourg (FR),"Paris, France",Unknown
+221,First class,"Ostby, Miss. Helene Ragnhild",female,22.0,0,1,113509,61.9792,B36,Cherbourg (FR),"Providence, RI",B
+222,First class,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,Cherbourg (FR),"Providence, RI",B
+223,First class,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,Cherbourg (FR),"?Havana, Cuba",D
+224,First class,"Parr, Mr. William Henry Marsh",male,41.0,0,0,112052,0.0,,Southampton (UK),Belfast,Unknown
+225,First class,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,Southampton (UK),"Surbiton Hill, Surrey",C
+226,First class,"Payne, Mr. Vivian Ponsonby",male,23.0,0,0,12749,93.5,B24,Southampton (UK),"Montreal, PQ",B
+227,First class,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,Southampton (UK),"Isleworth, England",C
+228,First class,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,Southampton (UK),"Isleworth, England",C
+229,First class,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,C65,Cherbourg (FR),"Madrid, Spain",C
+230,First class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,Cherbourg (FR),"Madrid, Spain",C
+231,First class,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,Southampton (UK),Unknown,B
+232,First class,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,30.5,C104,Southampton (UK),"Toronto, ON",C
+233,First class,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,Southampton (UK),"Worcester, MA",C
+234,First class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,Cherbourg (FR),"Mt Airy, Philadelphia, PA",C
+235,First class,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,,Southampton (UK),"Rotterdam, Netherlands",Unknown
+236,First class,"Rheims, Mr. George Alexander Lucien",male,41.0,0,0,PC 17607,39.6,,Southampton (UK),"Paris /  New York, NY",Unknown
+237,First class,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,135.6333,,Cherbourg (FR),Unknown,Unknown
+238,First class,"Robbins, Mr. Victor",male,41.0,0,0,PC 17757,227.525,,Cherbourg (FR),Unknown,Unknown
+239,First class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,B3,Southampton (UK),"St Louis, MO",B
+240,First class,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,Southampton (UK),"Trenton, NJ",A
+241,First class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,,Southampton (UK),"New York, NY",Unknown
+242,First class,"Rood, Mr. Hugh Roscoe",male,41.0,0,0,113767,50.0,A32,Southampton (UK),"Seattle, WA",A
+243,First class,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,PC 17613,27.7208,A11,Cherbourg (FR),"Paris, France",A
+244,First class,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46.0,0,0,PC 17585,79.2,,Cherbourg (FR),"New York, NY",Unknown
+245,First class,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,A10,Cherbourg (FR),"Winnipeg, MB",A
+246,First class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,Southampton (UK),"London  Vancouver, BC",B
+247,First class,"Rothschild, Mr. Martin",male,55.0,1,0,PC 17603,59.4,,Cherbourg (FR),"New York, NY",Unknown
+248,First class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,,Cherbourg (FR),"New York, NY",Unknown
+249,First class,"Rowe, Mr. Alfred G",male,33.0,0,0,113790,26.55,,Southampton (UK),London,Unknown
+250,First class,"Ryerson, Master. John Borie",male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg (FR),"Haverford, PA / Cooperstown, NY",B
+251,First class,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg (FR),"Haverford, PA / Cooperstown, NY",B
+252,First class,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg (FR),"Haverford, PA / Cooperstown, NY",B
+253,First class,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,Cherbourg (FR),"Haverford, PA / Cooperstown, NY",B
+254,First class,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,Cherbourg (FR),"Haverford, PA / Cooperstown, NY",B
+255,First class,"Saalfeld, Mr. Adolphe",male,41.0,0,0,19988,30.5,C106,Southampton (UK),"Manchester, England",C
+256,First class,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,Cherbourg (FR),Unknown,B
+257,First class,"Salomon, Mr. Abraham L",male,41.0,0,0,111163,26.0,,Southampton (UK),"New York, NY",Unknown
+258,First class,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,13236,57.75,C28,Cherbourg (FR),"New York, NY",C
+259,First class,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,,Cherbourg (FR),Unknown,Unknown
+260,First class,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,,Southampton (UK),"New York, NY",Unknown
+261,First class,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,Southampton (UK),"New York, NY / Greenwich CT",C
+262,First class,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,Southampton (UK),"St Louis, MO",E
+263,First class,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,E44,Southampton (UK),"Duluth, MN",E
+264,First class,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,Southampton (UK),"Duluth, MN",E
+265,First class,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,35.5,A26,Cherbourg (FR),"Basel, Switzerland",A
+266,First class,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,Southampton (UK),"New Britain, CT",A
+267,First class,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,,Southampton (UK),"New York, NY",Unknown
+268,First class,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,Cherbourg (FR),"St James, Long Island, NY",A
+269,First class,"Smith, Mr. Lucien Philip",male,24.0,1,0,13695,60.0,C31,Southampton (UK),"Huntington, WV",C
+270,First class,"Smith, Mr. Richard William",male,41.0,0,0,113056,26.0,A19,Southampton (UK),"Streatham, Surrey",A
+271,First class,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1,0,13695,60.0,C31,Southampton (UK),"Huntington, WV",C
+272,First class,"Snyder, Mr. John Pillsbury",male,24.0,1,0,21228,82.2667,B45,Southampton (UK),"Minneapolis, MN",B
+273,First class,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,21228,82.2667,B45,Southampton (UK),"Minneapolis, MN",B
+274,First class,"Spedden, Master. Robert Douglas",male,6.0,0,2,16966,134.5,E34,Cherbourg (FR),"Tuxedo Park, NY",E
+275,First class,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,16966,134.5,E34,Cherbourg (FR),"Tuxedo Park, NY",E
+276,First class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,Cherbourg (FR),"Tuxedo Park, NY",E
+277,First class,"Spencer, Mr. William Augustus",male,57.0,1,0,PC 17569,146.5208,B78,Cherbourg (FR),"Paris, France",B
+278,First class,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,37.0,1,0,PC 17569,146.5208,B78,Cherbourg (FR),"Paris, France",B
+279,First class,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,Cherbourg (FR),"Basel, Switzerland",B
+280,First class,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,Southampton (UK),"Wimbledon Park, London / Hayling Island, Hants",C
+281,First class,"Stengel, Mr. Charles Emil Henry",male,54.0,1,0,11778,55.4417,C116,Cherbourg (FR),"Newark, NJ",C
+282,First class,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1,0,11778,55.4417,C116,Cherbourg (FR),"Newark, NJ",C
+283,First class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,D20,Cherbourg (FR),"Haverford, PA",D
+284,First class,"Stewart, Mr. Albert A",male,41.0,0,0,PC 17605,27.7208,,Cherbourg (FR),"Gallipolis, Ohio / ? Paris / New York",Unknown
+285,First class,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,Southampton (UK),"Cincinatti, OH",B
+286,First class,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,Southampton (UK),"New York, NY",C
+287,First class,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,PC 17483,221.7792,C55 C57,Southampton (UK),"New York, NY",C
+288,First class,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,Southampton (UK),"Haddenfield, NJ",D
+289,First class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,Southampton (UK),"Brooklyn, NY",D
+290,First class,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,Southampton (UK),"New York, NY",E
+291,First class,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,Southampton (UK),"New York, NY",E
+292,First class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,Southampton (UK),"New York, NY",E
+293,First class,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,Southampton (UK),"London /  East Orange, NJ",C
+294,First class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,37.0,1,0,19996,52.0,C126,Southampton (UK),"London /  East Orange, NJ",C
+295,First class,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,Cherbourg (FR),"Haverford, PA",C
+296,First class,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,C70,Cherbourg (FR),"Haverford, PA",C
+297,First class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,Cherbourg (FR),"Haverford, PA",C
+298,First class,"Thorne, Mrs. Gertrude Maybelle",female,37.0,0,0,PC 17585,79.2,,Cherbourg (FR),"New York, NY",Unknown
+299,First class,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,2543,28.5375,C53,Cherbourg (FR),"Albany, NY",C
+300,First class,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,Cherbourg (FR),"Mexico City, Mexico",Unknown
+301,First class,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,Southampton (UK),"Brooklyn, NY",B
+302,First class,"Walker, Mr. William Anderson",male,47.0,0,0,36967,34.0208,D46,Southampton (UK),"East Orange, NJ",D
+303,First class,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,,Cherbourg (FR),Unknown,Unknown
+304,First class,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,Cherbourg (FR),"Portland, OR",D
+305,First class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,Cherbourg (FR),"Portland, OR",D
+306,First class,"Weir, Col. John",male,60.0,0,0,113800,26.55,,Southampton (UK),"England Salt Lake City, Utah",Unknown
+307,First class,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,Southampton (UK),"Brunswick, ME",D
+308,First class,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,Southampton (UK),"Brunswick, ME",D
+309,First class,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,PC 17760,135.6333,C32,Cherbourg (FR),"New York, NY / Briarcliff Manor NY",C
+310,First class,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,Southampton (UK),"Youngstown, OH",C
+311,First class,"Wick, Mr. George Dennick",male,57.0,1,1,36928,164.8667,,Southampton (UK),"Youngstown, OH",Unknown
+312,First class,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,,Southampton (UK),"Youngstown, OH",Unknown
+313,First class,"Widener, Mr. George Dunton",male,50.0,1,1,113503,211.5,C80,Cherbourg (FR),"Elkins Park, PA",C
+314,First class,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,Cherbourg (FR),"Elkins Park, PA",C
+315,First class,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,113503,211.5,C80,Cherbourg (FR),"Elkins Park, PA",C
+316,First class,"Willard, Miss. Constance",female,21.0,0,0,113795,26.55,,Southampton (UK),"Duluth, MN",Unknown
+317,First class,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,,Cherbourg (FR),"Geneva, Switzerland / Radnor, PA",Unknown
+318,First class,"Williams, Mr. Richard Norris II",male,21.0,0,1,PC 17597,61.3792,,Cherbourg (FR),"Geneva, Switzerland / Radnor, PA",Unknown
+319,First class,"Williams-Lambert, Mr. Fletcher Fellows",male,41.0,0,0,113510,35.0,C128,Southampton (UK),"London, England",C
+320,First class,"Wilson, Miss. Helen Alice",female,31.0,0,0,16966,134.5,E39 E41,Cherbourg (FR),Unknown,E
+321,First class,"Woolner, Mr. Hugh",male,41.0,0,0,19947,35.5,C52,Southampton (UK),"London, England",C
+322,First class,"Wright, Mr. George",male,62.0,0,0,113807,26.55,,Southampton (UK),"Halifax, NS",Unknown
+323,First class,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,Cherbourg (FR),"New York, NY / Washington, DC",C
+324,Second class,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,,Cherbourg (FR),"Russia New York, NY",Unknown
+325,Second class,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,,Cherbourg (FR),"Russia New York, NY",Unknown
+326,Second class,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,248744,13.0,,Southampton (UK),"Bryn Mawr, PA, USA",Unknown
+327,Second class,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,,Southampton (UK),"Buenos Aires, Argentina / New Jersey, NJ",Unknown
+328,Second class,"Andrew, Mr. Frank Thomas",male,25.0,0,0,C.A. 34050,10.5,,Southampton (UK),"Cornwall, England Houghton, MI",Unknown
+329,Second class,"Angle, Mr. William A",male,34.0,1,0,226875,26.0,,Southampton (UK),"Warwick, England",Unknown
+330,Second class,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,,Southampton (UK),"Warwick, England",Unknown
+331,Second class,"Ashby, Mr. John",male,57.0,0,0,244346,13.0,,Southampton (UK),"West Hoboken, NJ",Unknown
+332,Second class,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,11.5,,Southampton (UK),"Penzance, Cornwall / Akron, OH",Unknown
+333,Second class,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,C.A. 31030,10.5,,Southampton (UK),Guernsey,Unknown
+334,Second class,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,D,Southampton (UK),"Bristol, Avon / Jacksonville, FL",D
+335,Second class,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,,Southampton (UK),"Plymouth, Dorset / Houghton, MI",Unknown
+336,Second class,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,,Southampton (UK),"Jacksonville, FL",Unknown
+337,Second class,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,,Southampton (UK),"Norwich / New York, NY",Unknown
+338,Second class,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,,Southampton (UK),"Norwich / New York, NY",Unknown
+339,Second class,"Beauchamp, Mr. Henry James",male,28.0,0,0,244358,26.0,,Southampton (UK),England,Unknown
+340,Second class,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,F4,Southampton (UK),"Guntur, India / Benton Harbour, MI",F
+341,Second class,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,F4,Southampton (UK),"Guntur, India / Benton Harbour, MI",F
+342,Second class,"Becker, Miss. Ruth Elizabeth",female,12.0,2,1,230136,39.0,F4,Southampton (UK),"Guntur, India / Benton Harbour, MI",F
+343,Second class,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0,3,230136,39.0,F4,Southampton (UK),"Guntur, India / Benton Harbour, MI",F
+344,Second class,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,Southampton (UK),London,D
+345,Second class,"Bentham, Miss. Lilian W",female,19.0,0,0,28404,13.0,,Southampton (UK),"Rochester, NY",Unknown
+346,Second class,"Berriman, Mr. William John",male,23.0,0,0,28425,13.0,,Southampton (UK),"St Ives, Cornwall / Calumet, MI",Unknown
+347,Second class,"Botsford, Mr. William Hull",male,26.0,0,0,237670,13.0,,Southampton (UK),"Elmira, NY / Orange, NJ",Unknown
+348,Second class,"Bowenur, Mr. Solomon",male,42.0,0,0,211535,13.0,,Southampton (UK),London,Unknown
+349,Second class,"Bracken, Mr. James H",male,27.0,0,0,220367,13.0,,Southampton (UK),"Lake Arthur, Chavez County, NM",Unknown
+350,Second class,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,F33,Southampton (UK),"London / Montreal, PQ",F
+351,Second class,"Brown, Miss. Edith Eileen",female,15.0,0,2,29750,39.0,,Southampton (UK),"Cape Town, South Africa / Seattle, WA",Unknown
+352,Second class,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,39.0,,Southampton (UK),"Cape Town, South Africa / Seattle, WA",Unknown
+353,Second class,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,,Southampton (UK),"Cape Town, South Africa / Seattle, WA",Unknown
+354,Second class,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1,0,236853,26.0,,Southampton (UK),"Skara, Sweden / Rockford, IL",Unknown
+355,Second class,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,26.0,,Southampton (UK),"Skara, Sweden / Rockford, IL",Unknown
+356,Second class,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,,Southampton (UK),"Sittingbourne, England / San Diego, CA",Unknown
+357,Second class,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,,Southampton (UK),"Southsea, Hants",Unknown
+358,Second class,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,,Southampton (UK),London,Unknown
+359,Second class,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,,Southampton (UK),"New York, NY",Unknown
+360,Second class,"Caldwell, Master. Alden Gates",male,0.8333,0,2,248738,29.0,,Southampton (UK),"Bangkok, Thailand / Roseville, IL",Unknown
+361,Second class,"Caldwell, Mr. Albert Francis",male,26.0,1,1,248738,29.0,,Southampton (UK),"Bangkok, Thailand / Roseville, IL",Unknown
+362,Second class,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,,Southampton (UK),"Bangkok, Thailand / Roseville, IL",Unknown
+363,Second class,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,,Southampton (UK),"Mamaroneck, NY",Unknown
+364,Second class,"Campbell, Mr. William",male,30.0,0,0,239853,0.0,,Southampton (UK),Belfast,Unknown
+365,Second class,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,,Southampton (UK),"St Ives, Cornwall / Calumet, MI",Unknown
+366,Second class,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,26.0,,Southampton (UK),London,Unknown
+367,Second class,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,26.0,,Southampton (UK),London,Unknown
+368,Second class,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,,Southampton (UK),"Bronx, NY",Unknown
+369,Second class,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,,Southampton (UK),"Cornwall / Spokane, WA",Unknown
+370,Second class,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,SC/AH 29037,26.0,,Southampton (UK),"Cornwall / Spokane, WA",Unknown
+371,Second class,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,Southampton (UK),London,Unknown
+372,Second class,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,237789,30.0,,Southampton (UK),London,Unknown
+373,Second class,"Clarke, Mr. Charles Valentine",male,29.0,1,0,2003,26.0,,Southampton (UK),"England / San Francisco, CA",Unknown
+374,Second class,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,,Southampton (UK),"England / San Francisco, CA",Unknown
+375,Second class,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,,Southampton (UK),"Hartford, Huntingdonshire",Unknown
+376,Second class,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,,Southampton (UK),"Helsinki, Finland Ashtabula, Ohio",Unknown
+377,Second class,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,28034,10.5,,Southampton (UK),"London / Fort Byron, NY",Unknown
+378,Second class,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,,Southampton (UK),"Bishopstoke, Hants / Fayette Valley, ID",Unknown
+379,Second class,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,26.25,,Southampton (UK),"Bishopstoke, Hants / Fayette Valley, ID",Unknown
+380,Second class,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,,Southampton (UK),"Bishopstoke, Hants / Fayette Valley, ID",Unknown
+381,Second class,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,W./C. 14266,10.5,F33,Southampton (UK),Pennsylvania,F
+382,Second class,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,237249,13.0,,Southampton (UK),"Provo, UT",Unknown
+383,Second class,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,27.0,0,0,F.C.C. 13534,21.0,,Southampton (UK),"Upper Burma, India Pittsburgh, PA",Unknown
+384,Second class,"Cotterill, Mr. Henry ""Harry""",male,21.0,0,0,29107,11.5,,Southampton (UK),"Penzance, Cornwall / Akron, OH",Unknown
+385,Second class,"Cunningham, Mr. Alfred Fleming",male,30.0,0,0,239853,0.0,,Southampton (UK),Belfast,Unknown
+386,Second class,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,,Southampton (UK),"St Ives, Cornwall / Hancock, MI",Unknown
+387,Second class,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,,Southampton (UK),"Lyndhurst, England",Unknown
+388,Second class,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,C.A. 33112,36.75,,Southampton (UK),"St Ives, Cornwall / Hancock, MI",Unknown
+389,Second class,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,,Southampton (UK),"London / Staten Island, NY",Unknown
+390,Second class,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,244360,13.0,,Southampton (UK),"Portugal / Sau Paulo, Brazil",Unknown
+391,Second class,"Deacon, Mr. Percy William",male,17.0,0,0,S.O.C. 14879,73.5,,Southampton (UK),Unknown,Unknown
+392,Second class,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,,Cherbourg (FR),"Lucca, Italy / California",Unknown
+393,Second class,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1,0,SC/PARIS 2167,27.7208,,Cherbourg (FR),"Lucca, Italy / California",Unknown
+394,Second class,"Denbury, Mr. Herbert",male,25.0,0,0,C.A. 31029,31.5,,Southampton (UK),"Guernsey / Elizabeth, NJ",Unknown
+395,Second class,"Dibden, Mr. William",male,18.0,0,0,S.O.C. 14879,73.5,,Southampton (UK),"New Forest, England",Unknown
+396,Second class,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,Southampton (UK),Southampton,Unknown
+397,Second class,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,,Southampton (UK),Southampton,Unknown
+398,Second class,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,,Southampton (UK),"Holley, NY",Unknown
+399,Second class,"Drew, Master. Marshall Brines",male,8.0,0,2,28220,32.5,,Southampton (UK),"Greenport, NY",Unknown
+400,Second class,"Drew, Mr. James Vivian",male,42.0,1,1,28220,32.5,,Southampton (UK),"Greenport, NY",Unknown
+401,Second class,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,,Southampton (UK),"Greenport, NY",Unknown
+402,Second class,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,,Cherbourg (FR),"Barcelona, Spain / Havana, Cuba",Unknown
+403,Second class,"Duran y More, Miss. Florentina",female,30.0,1,0,SC/PARIS 2148,13.8583,,Cherbourg (FR),"Barcelona, Spain / Havana, Cuba",Unknown
+404,Second class,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,13.0,,Southampton (UK),"England / Detroit, MI",Unknown
+405,Second class,"Enander, Mr. Ingvar",male,21.0,0,0,236854,13.0,,Southampton (UK),"Goteborg, Sweden / Rockford, IL",Unknown
+406,Second class,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,13.0,,Southampton (UK),"Oslo, Norway Bayonne, NJ",Unknown
+407,Second class,"Faunthorpe, Mr. Harry",male,40.0,1,0,2926,26.0,,Southampton (UK),"England / Philadelphia, PA",Unknown
+408,Second class,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,,Southampton (UK),Unknown,Unknown
+409,Second class,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,C.A. 15185,10.5,,Southampton (UK),"Cornwall / Houghton, MI",Unknown
+410,Second class,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,,Southampton (UK),"Rochester, NY",Unknown
+411,Second class,"Frost, Mr. Anthony Wood ""Archie""",male,30.0,0,0,239854,0.0,,Southampton (UK),Belfast,Unknown
+412,Second class,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,13.0,,Southampton (UK),"Janjgir, India / Pennsylvania",Unknown
+413,Second class,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,,Southampton (UK),"Liverpool / Montreal, PQ",Unknown
+414,Second class,"Gale, Mr. Harry",male,38.0,1,0,28664,21.0,,Southampton (UK),"Cornwall / Clear Creek, CO",Unknown
+415,Second class,"Gale, Mr. Shadrach",male,34.0,1,0,28664,21.0,,Southampton (UK),"Cornwall / Clear Creek, CO",Unknown
+416,Second class,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,Southampton (UK),"Brooklyn, NY",Unknown
+417,Second class,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,,Southampton (UK),"Liverpool / Montreal, PQ",Unknown
+418,Second class,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,10.5,,Southampton (UK),"Guernsey / Elizabeth, NJ",Unknown
+419,Second class,"Gilbert, Mr. William",male,47.0,0,0,C.A. 30769,10.5,,Southampton (UK),Cornwall,Unknown
+420,Second class,"Giles, Mr. Edgar",male,21.0,1,0,28133,11.5,,Southampton (UK),"Cornwall / Camden, NJ",Unknown
+421,Second class,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,11.5,,Southampton (UK),"Cornwall / Camden, NJ",Unknown
+422,Second class,"Giles, Mr. Ralph",male,24.0,0,0,248726,13.5,,Southampton (UK),"West Kensington, London",Unknown
+423,Second class,"Gill, Mr. John William",male,24.0,0,0,233866,13.0,,Southampton (UK),"Clevedon, England",Unknown
+424,Second class,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,,Southampton (UK),"Vancouver, BC",Unknown
+425,Second class,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,13.0,,Southampton (UK),Unknown,Unknown
+426,Second class,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,,Southampton (UK),"Bronx, NY",Unknown
+427,Second class,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,,Southampton (UK),"Auburn, NY",Unknown
+428,Second class,"Hamalainen, Master. Viljo",male,0.6667,1,1,250649,14.5,,Southampton (UK),"Detroit, MI",Unknown
+429,Second class,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,,Southampton (UK),"Detroit, MI",Unknown
+430,Second class,"Harbeck, Mr. William H",male,44.0,0,0,248746,13.0,,Southampton (UK),"Seattle, WA / Toledo, OH",Unknown
+431,Second class,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,,Southampton (UK),"Denmark Hill, Surrey / Chicago",Unknown
+432,Second class,"Harper, Rev. John",male,28.0,0,1,248727,33.0,,Southampton (UK),"Denmark Hill, Surrey / Chicago",Unknown
+433,Second class,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,Southampton (UK),London,Unknown
+434,Second class,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,,Southampton (UK),"Walthamstow, England",Unknown
+435,Second class,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,,Southampton (UK),"Ilford, Essex / Winnipeg, MB",Unknown
+436,Second class,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,,Southampton (UK),"Ilford, Essex / Winnipeg, MB",Unknown
+437,Second class,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,,Southampton (UK),"Ilford, Essex / Winnipeg, MB",Unknown
+438,Second class,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,,Southampton (UK),"Somerset / Bernardsville, NJ",Unknown
+439,Second class,"Herman, Miss. Kate",female,24.0,1,2,220845,65.0,,Southampton (UK),"Somerset / Bernardsville, NJ",Unknown
+440,Second class,"Herman, Mr. Samuel",male,49.0,1,2,220845,65.0,,Southampton (UK),"Somerset / Bernardsville, NJ",Unknown
+441,Second class,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,,Southampton (UK),"Somerset / Bernardsville, NJ",Unknown
+442,Second class,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,Southampton (UK),"India / Rapid City, SD",Unknown
+443,Second class,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,73.5,,Southampton (UK),"West Hampstead, London / Neepawa, MB",Unknown
+444,Second class,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,,Southampton (UK),"West Hampstead, London / Neepawa, MB",Unknown
+445,Second class,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,,Southampton (UK),"West Hampstead, London / Neepawa, MB",Unknown
+446,Second class,"Hiltunen, Miss. Marta",female,18.0,1,1,250650,13.0,,Southampton (UK),"Kontiolahti, Finland / Detroit, MI",Unknown
+447,Second class,"Hocking, Miss. Ellen ""Nellie""",female,20.0,2,1,29105,23.0,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+448,Second class,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+449,Second class,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,242963,13.0,,Southampton (UK),"Devonport, England",Unknown
+450,Second class,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+451,Second class,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,13.0,,Southampton (UK),Southampton,Unknown
+452,Second class,"Hold, Mr. Stephen",male,44.0,1,0,26707,26.0,,Southampton (UK),"England / Sacramento, CA",Unknown
+453,Second class,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,26707,26.0,,Southampton (UK),"England / Sacramento, CA",Unknown
+454,Second class,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,,Southampton (UK),"New Forest, England",Unknown
+455,Second class,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,,Southampton (UK),"Tokyo, Japan",Unknown
+456,Second class,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,,Southampton (UK),"Swindon, England",Unknown
+457,Second class,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,24065,26.0,,Southampton (UK),"Swindon, England",Unknown
+458,Second class,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,,Southampton (UK),"Philadelphia, PA",Unknown
+459,Second class,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,,Southampton (UK),Guernsey,Unknown
+460,Second class,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,27.0,,Southampton (UK),London,Unknown
+461,Second class,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,,Southampton (UK),London,Unknown
+462,Second class,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,15.0,,Southampton (UK),"North Evington, England",Unknown
+463,Second class,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,C.A. 31029,31.5,,Southampton (UK),"Guernsey / Elizabeth, NJ",Unknown
+464,Second class,"Jefferys, Mr. Ernest Wilfred",male,22.0,2,0,C.A. 31029,31.5,,Southampton (UK),"Guernsey / Elizabeth, NJ",Unknown
+465,Second class,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,,Southampton (UK),"St Ives, Cornwall / Houghton, MI",Unknown
+466,Second class,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,Cherbourg (FR),"New York, NY",D
+467,Second class,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,,Southampton (UK),"Moscow / Bronx, NY",Unknown
+468,Second class,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,Southampton (UK),"Moscow / Bronx, NY",Unknown
+469,Second class,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,F.C.C. 13534,21.0,,Southampton (UK),"India / Pittsburgh, PA",Unknown
+470,Second class,"Keane, Miss. Nora A",female,27.0,0,0,226593,12.35,E101,Queenstown (IE),"Harrisburg, PA",E
+471,Second class,"Keane, Mr. Daniel",male,35.0,0,0,233734,12.35,,Queenstown (IE),Unknown,Unknown
+472,Second class,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,,Southampton (UK),"London / New York, NY",Unknown
+473,Second class,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,,Queenstown (IE),"Glasgow / Bangor, ME",Unknown
+474,Second class,"Knight, Mr. Robert J",male,30.0,0,0,239855,0.0,,Southampton (UK),Belfast,Unknown
+475,Second class,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,,Southampton (UK),"Sweden / Arlington, NJ",Unknown
+476,Second class,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,,Southampton (UK),"Minneapolis, MN",Unknown
+477,Second class,"Lahtinen, Rev. William",male,30.0,1,1,250651,26.0,,Southampton (UK),"Minneapolis, MN",Unknown
+478,Second class,"Lamb, Mr. John Joseph",male,30.0,0,0,240261,10.7083,,Queenstown (IE),Unknown,Unknown
+479,Second class,"Laroche, Miss. Louise",female,1.0,1,2,SC/Paris 2123,41.5792,,Cherbourg (FR),Paris / Haiti,Unknown
+480,Second class,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,Cherbourg (FR),Paris / Haiti,Unknown
+481,Second class,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,,Cherbourg (FR),Paris / Haiti,Unknown
+482,Second class,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,,Cherbourg (FR),Paris / Haiti,Unknown
+483,Second class,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,,Cherbourg (FR),"Berne, Switzerland / Central City, IA",Unknown
+484,Second class,"Leitch, Miss. Jessie Wills",female,27.0,0,0,248727,33.0,,Southampton (UK),"London / Chicago, IL",Unknown
+485,Second class,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,F33,Southampton (UK),"Chicago, IL",F
+486,Second class,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,Cherbourg (FR),"Montreal, PQ",D
+487,Second class,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,10.5,,Southampton (UK),Unknown,Unknown
+488,Second class,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,Queenstown (IE),Unknown,Unknown
+489,Second class,"Louch, Mr. Charles Alexander",male,50.0,1,0,SC/AH 3085,26.0,,Southampton (UK),"Weston-Super-Mare, Somerset",Unknown
+490,Second class,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,Southampton (UK),"Weston-Super-Mare, Somerset",Unknown
+491,Second class,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,Southampton (UK),"Southampton / New York, NY",E
+492,Second class,"Malachard, Mr. Noel",male,30.0,0,0,237735,15.0458,D,Cherbourg (FR),Paris,D
+493,Second class,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,,Cherbourg (FR),"Paris / Montreal, PQ",Unknown
+494,Second class,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,,Cherbourg (FR),"Paris / Montreal, PQ",Unknown
+495,Second class,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,S.C./PARIS 2079,37.0042,,Cherbourg (FR),"Paris / Montreal, PQ",Unknown
+496,Second class,"Mangiavacchi, Mr. Serafino Emilio",male,30.0,0,0,SC/A.3 2861,15.5792,,Cherbourg (FR),"New York, NY",Unknown
+497,Second class,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,,Southampton (UK),"St Austall, Cornwall",Unknown
+498,Second class,"Maybery, Mr. Frank Hubert",male,40.0,0,0,239059,16.0,,Southampton (UK),"Weston-Super-Mare / Moose Jaw, SK",Unknown
+499,Second class,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,237216,13.5,,Southampton (UK),"Sydney, Australia",Unknown
+500,Second class,"McCrie, Mr. James Matthew",male,30.0,0,0,233478,13.0,,Southampton (UK),"Sarnia, ON",Unknown
+501,Second class,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,,Southampton (UK),"Rochester, NY",Unknown
+502,Second class,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,,Southampton (UK),"England / Bennington, VT",Unknown
+503,Second class,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,,Southampton (UK),"England / Bennington, VT",Unknown
+504,Second class,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,,Southampton (UK),"Chelsea, London",Unknown
+505,Second class,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,,Southampton (UK),"Harrow-on-the-Hill, Middlesex",Unknown
+506,Second class,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,,Southampton (UK),"Copenhagen, Denmark",Unknown
+507,Second class,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,,Southampton (UK),"Guernsey / Montclair, NJ and/or Toledo, Ohio",Unknown
+508,Second class,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,,Southampton (UK),"Worcester, MA",Unknown
+509,Second class,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,,Southampton (UK),"Frankfort, KY",Unknown
+510,Second class,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,,Southampton (UK),Unknown,Unknown
+511,Second class,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,,Southampton (UK),"Halesworth, England",Unknown
+512,Second class,"Myles, Mr. Thomas Francis",male,62.0,0,0,240276,9.6875,,Queenstown (IE),"Cambridge, MA",Unknown
+513,Second class,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,,Cherbourg (FR),"New York, NY",Unknown
+514,Second class,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,,Cherbourg (FR),"New York, NY",Unknown
+515,Second class,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,F2,Southampton (UK),"Nice, France",F
+516,Second class,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,Southampton (UK),"Nice, France",F
+517,Second class,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,Southampton (UK),"Nice, France",F
+518,Second class,"Nesson, Mr. Israel",male,26.0,0,0,244368,13.0,F2,Southampton (UK),"Boston, MA",F
+519,Second class,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,,Southampton (UK),"Cornwall / Hancock, MI",Unknown
+520,Second class,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,13.5,,Southampton (UK),Glasgow,Unknown
+521,Second class,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20.0,0,0,SC/PARIS 2166,13.8625,D38,Cherbourg (FR),"Cologne, Germany",D
+522,Second class,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,Southampton (UK),"Folkstone, Kent / New York, NY",F
+523,Second class,"Otter, Mr. Richard",male,39.0,0,0,28213,13.0,,Southampton (UK),"Middleburg Heights, OH",Unknown
+524,Second class,"Oxenham, Mr. Percy Thomas",male,22.0,0,0,W./C. 14260,10.5,,Southampton (UK),"Pondersend, England / New Durham, NJ",Unknown
+525,Second class,"Padro y Manent, Mr. Julian",male,30.0,0,0,SC/PARIS 2146,13.8625,,Cherbourg (FR),"Spain / Havana, Cuba",Unknown
+526,Second class,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,,Southampton (UK),"Hamilton, ON",Unknown
+527,Second class,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,SC/PARIS 2147,13.8583,,Cherbourg (FR),"Spain / Havana, Cuba",Unknown
+528,Second class,"Parker, Mr. Clifford Richard",male,28.0,0,0,SC 14888,10.5,,Southampton (UK),"St Andrews, Guernsey",Unknown
+529,Second class,"Parkes, Mr. Francis ""Frank""",male,30.0,0,0,239853,0.0,,Southampton (UK),Belfast,Unknown
+530,Second class,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,,Southampton (UK),"Woodford County, KY",Unknown
+531,Second class,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,,Southampton (UK),"Gunnislake, England / Butte, MT",Unknown
+532,Second class,"Pernot, Mr. Rene",male,30.0,0,0,SC/PARIS 2131,15.05,,Cherbourg (FR),Unknown,Unknown
+533,Second class,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,237393,13.0,,Southampton (UK),Unknown,Unknown
+534,Second class,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,S.O./P.P. 2,21.0,,Southampton (UK),"Ilfracombe, Devon",Unknown
+535,Second class,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,,Southampton (UK),"Worcester, England",Unknown
+536,Second class,"Phillips, Mr. Escott Robert",male,43.0,0,1,S.O./P.P. 2,21.0,,Southampton (UK),"Ilfracombe, Devon",Unknown
+537,Second class,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,,Southampton (UK),Russia,Unknown
+538,Second class,"Ponesell, Mr. Martin",male,34.0,0,0,250647,13.0,,Southampton (UK),"Denmark / New York, NY",Unknown
+539,Second class,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,C.A. 34644,12.7375,,Cherbourg (FR),"Milford, NH",Unknown
+540,Second class,"Pulbaum, Mr. Franz",male,27.0,0,0,SC/PARIS 2168,15.0333,,Cherbourg (FR),Paris,Unknown
+541,Second class,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,,Southampton (UK),"Plymouth, Devon / Detroit, MI",Unknown
+542,Second class,"Quick, Miss. Winifred Vera",female,8.0,1,1,26360,26.0,,Southampton (UK),"Plymouth, Devon / Detroit, MI",Unknown
+543,Second class,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,Southampton (UK),"Plymouth, Devon / Detroit, MI",Unknown
+544,Second class,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,10.5,,Southampton (UK),"Brighton, Sussex",Unknown
+545,Second class,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,,Southampton (UK),"Elizabeth, NJ",Unknown
+546,Second class,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,,Southampton (UK),"Elizabeth, NJ",Unknown
+547,Second class,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,,Southampton (UK),Spain,Unknown
+548,Second class,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,,Cherbourg (FR),"Paris / Montreal, PQ",Unknown
+549,Second class,"Richards, Master. George Sibley",male,0.8333,1,1,29106,18.75,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+550,Second class,"Richards, Master. William Rowe",male,3.0,1,1,29106,18.75,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+551,Second class,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+552,Second class,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,,Southampton (UK),"London, England / Marietta, Ohio and Milwaukee, WI",Unknown
+553,Second class,"Rogers, Mr. Reginald Harry",male,19.0,0,0,28004,10.5,,Southampton (UK),Unknown,Unknown
+554,Second class,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,,Southampton (UK),"Guernsey / Wilmington, DE",Unknown
+555,Second class,"Schmidt, Mr. August",male,26.0,0,0,248659,13.0,,Southampton (UK),"Newark, NJ",Unknown
+556,Second class,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,,Southampton (UK),Liverpool,Unknown
+557,Second class,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,26.0,,Southampton (UK),"Hornsey, England",Unknown
+558,Second class,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,,Southampton (UK),"Deer Lodge, MT",Unknown
+559,Second class,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,,Southampton (UK),"Finland / Minneapolis, MN",Unknown
+560,Second class,"Sincock, Miss. Maude",female,20.0,0,0,C.A. 33112,36.75,,Southampton (UK),"Cornwall / Hancock, MI",Unknown
+561,Second class,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,Southampton (UK),"Finland / Washington, DC",Unknown
+562,Second class,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,13.5,,Southampton (UK),"Sault St Marie, ON",Unknown
+563,Second class,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Queenstown (IE),"Halifax, NS",Unknown
+564,Second class,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,,Southampton (UK),Cornwall,Unknown
+565,Second class,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,,Southampton (UK),Unknown,Unknown
+566,Second class,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,,Southampton (UK),"Cornwall / Houghton, MI",Unknown
+567,Second class,"Stanton, Mr. Samuel Ward",male,41.0,0,0,237734,15.0458,,Cherbourg (FR),"New York, NY",Unknown
+568,Second class,"Stokes, Mr. Philip Joseph",male,25.0,0,0,F.C.C. 13540,10.5,,Southampton (UK),"Catford, Kent / Detroit, MI",Unknown
+569,Second class,"Swane, Mr. George",male,18.5,0,0,248734,13.0,F,Southampton (UK),Unknown,F
+570,Second class,"Sweet, Mr. George Frederick",male,14.0,0,0,220845,65.0,,Southampton (UK),"Somerset / Bernardsville, NJ",Unknown
+571,Second class,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,,Southampton (UK),"Indianapolis, IN",Unknown
+572,Second class,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,,Southampton (UK),Unknown,Unknown
+573,Second class,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,,Southampton (UK),"Columbus, OH",Unknown
+574,Second class,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,E101,Southampton (UK),"Bath, England / Massachusetts",E
+575,Second class,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,,Southampton (UK),"Plymouth, England",Unknown
+576,Second class,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,,Southampton (UK),"Plymouth, England",Unknown
+577,Second class,"Veal, Mr. James",male,40.0,0,0,28221,13.0,,Southampton (UK),"Barre, Co Washington, VT",Unknown
+578,Second class,"Walcroft, Miss. Nellie",female,31.0,0,0,F.C.C. 13528,21.0,,Southampton (UK),"Mamaroneck, NY",Unknown
+579,Second class,"Ware, Mr. John James",male,30.0,1,0,CA 31352,21.0,,Southampton (UK),"Bristol, England / New Britain, CT",Unknown
+580,Second class,"Ware, Mr. William Jeffery",male,23.0,1,0,28666,10.5,,Southampton (UK),Unknown,Unknown
+581,Second class,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,CA 31352,21.0,,Southampton (UK),"Bristol, England / New Britain, CT",Unknown
+582,Second class,"Watson, Mr. Ennis Hastings",male,30.0,0,0,239856,0.0,,Southampton (UK),Belfast,Unknown
+583,Second class,"Watt, Miss. Bertha J",female,12.0,0,0,C.A. 33595,15.75,,Southampton (UK),"Aberdeen / Portland, OR",Unknown
+584,Second class,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,,Southampton (UK),"Aberdeen / Portland, OR",Unknown
+585,Second class,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,Southampton (UK),"England / Hartford, CT",E
+586,Second class,"Weisz, Mr. Leopold",male,27.0,1,0,228414,26.0,,Southampton (UK),"Bromsgrove, England / Montreal, PQ",Unknown
+587,Second class,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,,Southampton (UK),"Bromsgrove, England / Montreal, PQ",Unknown
+588,Second class,"Wells, Master. Ralph Lester",male,2.0,1,1,29103,23.0,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+589,Second class,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+590,Second class,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29.0,0,2,29103,23.0,,Southampton (UK),"Cornwall / Akron, OH",Unknown
+591,Second class,"West, Miss. Barbara J",female,0.9167,1,2,C.A. 34651,27.75,,Southampton (UK),"Bournmouth, England",Unknown
+592,Second class,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,,Southampton (UK),"Bournmouth, England",Unknown
+593,Second class,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,27.75,,Southampton (UK),"Bournmouth, England",Unknown
+594,Second class,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,,Southampton (UK),"Bournmouth, England",Unknown
+595,Second class,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,Southampton (UK),"Guernsey, England / Edgewood, RI",Unknown
+596,Second class,"Wheeler, Mr. Edwin ""Frederick""",male,30.0,0,0,SC/PARIS 2159,12.875,,Southampton (UK),Unknown,Unknown
+597,Second class,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,,Southampton (UK),"London, England",Unknown
+598,Second class,"Williams, Mr. Charles Eugene",male,30.0,0,0,244373,13.0,,Southampton (UK),"Harrow, England",Unknown
+599,Second class,"Wright, Miss. Marion",female,26.0,0,0,220844,13.5,,Southampton (UK),"Yoevil, England / Cottage Grove, OR",Unknown
+600,Second class,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,,Southampton (UK),Paris,Unknown
+601,Third class,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,,Southampton (UK),Unknown,Unknown
+602,Third class,"Abbott, Master. Eugene Joseph",male,13.0,0,2,C.A. 2673,20.25,,Southampton (UK),"East Providence, RI",Unknown
+603,Third class,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,20.25,,Southampton (UK),"East Providence, RI",Unknown
+604,Third class,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,Southampton (UK),"East Providence, RI",Unknown
+605,Third class,"Abelseth, Miss. Karen Marie",female,16.0,0,0,348125,7.65,,Southampton (UK),"Norway Los Angeles, CA",Unknown
+606,Third class,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,Southampton (UK),"Perkins County, SD",F
+607,Third class,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,SOTON/O2 3101284,7.925,,Southampton (UK),"Taalintehdas, Finland Hoboken, NJ",Unknown
+608,Third class,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0,0,2657,7.2292,,Cherbourg (FR),"Greensburg, PA",Unknown
+609,Third class,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,7.25,,Southampton (UK),"Asarum, Sweden Brooklyn, NY",Unknown
+610,Third class,"Adams, Mr. John",male,26.0,0,0,341826,8.05,,Southampton (UK),"Bournemouth, England",Unknown
+611,Third class,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,Southampton (UK),"Sweden Akeley, MN",Unknown
+612,Third class,"Aks, Master. Philip Frank",male,0.8333,0,1,392091,9.35,,Southampton (UK),"London, England Norfolk, VA",Unknown
+613,Third class,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,,Southampton (UK),"London, England Norfolk, VA",Unknown
+614,Third class,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,,Cherbourg (FR),"Syria Fredericksburg, VA",Unknown
+615,Third class,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,,Southampton (UK),"England Albion, NY",Unknown
+616,Third class,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,,Southampton (UK),"Salo, Finland Astoria, OR",Unknown
+617,Third class,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,,Southampton (UK),Unknown,Unknown
+618,Third class,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,,Southampton (UK),Argentina,Unknown
+619,Third class,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,Southampton (UK),"Lower Clapton, Middlesex or Erdington, Birmingham",Unknown
+620,Third class,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,,Southampton (UK),"Windsor, England New York, NY",Unknown
+621,Third class,"Andersen, Mr. Albert Karvin",male,32.0,0,0,C 4001,22.525,,Southampton (UK),"Bergen, Norway",Unknown
+622,Third class,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,,Southampton (UK),Unknown,Unknown
+623,Third class,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+624,Third class,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+625,Third class,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+626,Third class,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,,Southampton (UK),"Ruotsinphyhtaa, Finland New York, NY",Unknown
+627,Third class,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,347091,7.775,,Southampton (UK),"Vadsbro, Sweden Ministee, MI",Unknown
+628,Third class,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+629,Third class,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+630,Third class,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+631,Third class,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,,Southampton (UK),Unknown,Unknown
+632,Third class,"Andersson, Mr. Johan Samuel",male,26.0,0,0,347075,7.775,,Southampton (UK),"Hartford, CT",Unknown
+633,Third class,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,31.275,,Southampton (UK),"Sweden Winnipeg, MN",Unknown
+634,Third class,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,,Southampton (UK),"Sweden Chicago, IL",Unknown
+635,Third class,"Angheloff, Mr. Minko",male,26.0,0,0,349202,7.8958,,Southampton (UK),"Bulgaria Chicago, IL",Unknown
+636,Third class,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,,Southampton (UK),"Altdorf, Switzerland",Unknown
+637,Third class,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,,Southampton (UK),"Altdorf, Switzerland",Unknown
+638,Third class,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,349911,7.775,,Southampton (UK),"Sweden Joliet, IL",Unknown
+639,Third class,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,,Southampton (UK),Unknown,Unknown
+640,Third class,"Asplund, Master. Carl Edgar",male,5.0,4,2,347077,31.3875,,Southampton (UK),"Sweden  Worcester, MA",Unknown
+641,Third class,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,,Southampton (UK),"Sweden Worcester, MA",Unknown
+642,Third class,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,,Southampton (UK),"Sweden Worcester, MA",Unknown
+643,Third class,"Asplund, Master. Filip Oscar",male,13.0,4,2,347077,31.3875,,Southampton (UK),"Sweden Worcester, MA",Unknown
+644,Third class,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,,Southampton (UK),"Sweden Worcester, MA",Unknown
+645,Third class,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,347077,31.3875,,Southampton (UK),"Sweden  Worcester, MA",Unknown
+646,Third class,"Asplund, Mr. Johan Charles",male,23.0,0,0,350054,7.7958,,Southampton (UK),"Oskarshamn, Sweden Minneapolis, MN",Unknown
+647,Third class,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,Southampton (UK),"Sweden  Worcester, MA",Unknown
+648,Third class,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45.0,0,0,2696,7.225,,Cherbourg (FR),"Ottawa, ON",Unknown
+649,Third class,"Assaf, Mr. Gerios",male,21.0,0,0,2692,7.225,,Cherbourg (FR),"Ottawa, ON",Unknown
+650,Third class,"Assam, Mr. Ali",male,23.0,0,0,SOTON/O.Q. 3101309,7.05,,Southampton (UK),Unknown,Unknown
+651,Third class,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,,Cherbourg (FR),Unknown,Unknown
+652,Third class,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,,Cherbourg (FR),"Ottawa, ON",Unknown
+653,Third class,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,,Southampton (UK),"Krakoryd, Sweden Bloomington, IL",Unknown
+654,Third class,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,,Cherbourg (FR),"Syria Youngstown, OH",Unknown
+655,Third class,"Baccos, Mr. Raffull",male,20.0,0,0,2679,7.225,,Cherbourg (FR),Unknown,Unknown
+656,Third class,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,15.85,,Southampton (UK),"Ruotsinphytaa, Finland New York, NY",Unknown
+657,Third class,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,,Southampton (UK),"Ruotsinphytaa, Finland New York, NY",Unknown
+658,Third class,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,,Cherbourg (FR),"Syria New York, NY",Unknown
+659,Third class,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,,Cherbourg (FR),"Syria New York, NY",Unknown
+660,Third class,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,,Cherbourg (FR),"Syria New York, NY",Unknown
+661,Third class,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,,Cherbourg (FR),"Syria New York, NY",Unknown
+662,Third class,"Badman, Miss. Emily Louisa",female,18.0,0,0,A/4 31416,8.05,,Southampton (UK),"London Skanteales, NY",Unknown
+663,Third class,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,,Cherbourg (FR),Unknown,Unknown
+664,Third class,"Balkic, Mr. Cerin",male,26.0,0,0,349248,7.8958,,Southampton (UK),Unknown,Unknown
+665,Third class,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,,Cherbourg (FR),Unknown,Unknown
+666,Third class,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,,Cherbourg (FR),"Syria Ottawa, ON",Unknown
+667,Third class,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,,Cherbourg (FR),"Syria Ottawa, ON",Unknown
+668,Third class,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,,Queenstown (IE),"New York, NY",Unknown
+669,Third class,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,,Southampton (UK),"England New York, NY",Unknown
+670,Third class,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,,Southampton (UK),England,Unknown
+671,Third class,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,,Southampton (UK),"Krakudden, Sweden Moune, IL",Unknown
+672,Third class,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,,Southampton (UK),"Tranvik, Finland New York",Unknown
+673,Third class,"Betros, Master. Seman",male,25.0,0,0,2622,7.2292,,Cherbourg (FR),Unknown,Unknown
+674,Third class,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,,Cherbourg (FR),Syria,Unknown
+675,Third class,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,,Southampton (UK),"Hong Kong New York, NY",Unknown
+676,Third class,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,,Southampton (UK),"Brennes, Norway New York",Unknown
+677,Third class,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,347090,7.75,,Southampton (UK),"Stockholm, Sweden New York",Unknown
+678,Third class,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,,Southampton (UK),"Bulgaria Chicago, IL",Unknown
+679,Third class,"Boulos, Master. Akar",male,6.0,1,1,2678,15.2458,,Cherbourg (FR),"Syria Kent, ON",Unknown
+680,Third class,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,,Cherbourg (FR),"Syria Kent, ON",Unknown
+681,Third class,"Boulos, Mr. Hanna",male,25.0,0,0,2664,7.225,,Cherbourg (FR),Syria,Unknown
+682,Third class,"Boulos, Mrs. Joseph (Sultana)",female,22.0,0,2,2678,15.2458,,Cherbourg (FR),"Syria Kent, ON",Unknown
+683,Third class,"Bourke, Miss. Mary",female,22.0,0,2,364848,7.75,,Queenstown (IE),"Ireland Chicago, IL",Unknown
+684,Third class,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,,Queenstown (IE),"Ireland Chicago, IL",Unknown
+685,Third class,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,,Queenstown (IE),"Ireland Chicago, IL",Unknown
+686,Third class,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,,Southampton (UK),"Treherbert, Cardiff, Wales",Unknown
+687,Third class,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,,Queenstown (IE),"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",Unknown
+688,Third class,"Braf, Miss. Elin Ester Maria",female,20.0,0,0,347471,7.8542,,Southampton (UK),"Medeltorp, Sweden Chicago, IL",Unknown
+689,Third class,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,,Southampton (UK),"Bridgerule, Devon",Unknown
+690,Third class,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,Southampton (UK),"Bridgerule, Devon",Unknown
+691,Third class,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,350045,7.7958,,Southampton (UK),"Sweden Worcester, MA",Unknown
+692,Third class,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,,Southampton (UK),"Broomfield, Chelmsford, England",Unknown
+693,Third class,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Queenstown (IE),"Co Cork, Ireland Roxbury, MA",Unknown
+694,Third class,"Buckley, Mr. Daniel",male,21.0,0,0,330920,7.8208,,Queenstown (IE),"Kingwilliamstown, Co Cork, Ireland New York, NY",Unknown
+695,Third class,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Queenstown (IE),"Co Cork, Ireland Charlestown, MA",Unknown
+696,Third class,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,,Queenstown (IE),"Co Sligo, Ireland New York, NY",Unknown
+697,Third class,"Cacic, Miss. Manda",female,21.0,0,0,315087,8.6625,,Southampton (UK),Unknown,Unknown
+698,Third class,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,,Southampton (UK),Unknown,Unknown
+699,Third class,"Cacic, Mr. Jego Grga",male,18.0,0,0,315091,8.6625,,Southampton (UK),Unknown,Unknown
+700,Third class,"Cacic, Mr. Luka",male,38.0,0,0,315089,8.6625,,Southampton (UK),Croatia,Unknown
+701,Third class,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,,Southampton (UK),Unknown,Unknown
+702,Third class,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,,Southampton (UK),Unknown,Unknown
+703,Third class,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Queenstown (IE),Unknown,Unknown
+704,Third class,"Canavan, Mr. Patrick",male,21.0,0,0,364858,7.75,,Queenstown (IE),"Ireland Philadelphia, PA",Unknown
+705,Third class,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,,Southampton (UK),Unknown,Unknown
+706,Third class,"Caram, Mr. Joseph",male,25.0,1,0,2689,14.4583,,Cherbourg (FR),"Ottawa, ON",Unknown
+707,Third class,"Caram, Mrs. Joseph (Maria Elias)",female,22.0,1,0,2689,14.4583,,Cherbourg (FR),"Ottawa, ON",Unknown
+708,Third class,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,,Southampton (UK),"Dagsas, Sweden Fower, MN",Unknown
+709,Third class,"Carlsson, Mr. Carl Robert",male,24.0,0,0,350409,7.8542,,Southampton (UK),"Goteborg, Sweden Huntley, IL",Unknown
+710,Third class,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,,Queenstown (IE),"Co Longford, Ireland New York, NY",Unknown
+711,Third class,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,,Queenstown (IE),"Co Sligo, Ireland Hartford, CT",Unknown
+712,Third class,"Carver, Mr. Alfred John",male,28.0,0,0,392095,7.25,,Southampton (UK),"St Denys, Southampton, Hants",Unknown
+713,Third class,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,,Southampton (UK),London,Unknown
+714,Third class,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,,Queenstown (IE),"Ireland New York, NY",Unknown
+715,Third class,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,,Southampton (UK),"Hong Kong New York, NY",Unknown
+716,Third class,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,,Southampton (UK),Unknown,Unknown
+717,Third class,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,,Cherbourg (FR),Greece,Unknown
+718,Third class,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,2680,14.4542,,Cherbourg (FR),Greece,Unknown
+719,Third class,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,,Southampton (UK),Portugal,Unknown
+720,Third class,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,,Southampton (UK),"London Brooklyn, NY",Unknown
+721,Third class,"Colbert, Mr. Patrick",male,24.0,0,0,371109,7.25,,Queenstown (IE),"Co Limerick, Ireland Sherbrooke, PQ",Unknown
+722,Third class,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,,Southampton (UK),"Bulgaria Chicago, IL",Unknown
+723,Third class,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,,Southampton (UK),Unknown,Unknown
+724,Third class,"Conlon, Mr. Thomas Henry",male,31.0,0,0,21332,7.7333,,Queenstown (IE),"Philadelphia, PA",Unknown
+725,Third class,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,,Queenstown (IE),"Ireland Brooklyn, NY",Unknown
+726,Third class,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Queenstown (IE),Ireland,Unknown
+727,Third class,"Connolly, Miss. Kate",female,30.0,0,0,330972,7.6292,,Queenstown (IE),Ireland,Unknown
+728,Third class,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Queenstown (IE),Unknown,Unknown
+729,Third class,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,,Southampton (UK),Unknown,Unknown
+730,Third class,"Cor, Mr. Bartol",male,35.0,0,0,349230,7.8958,,Southampton (UK),Austria,Unknown
+731,Third class,"Cor, Mr. Ivan",male,27.0,0,0,349229,7.8958,,Southampton (UK),Austria,Unknown
+732,Third class,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,,Southampton (UK),Austria,Unknown
+733,Third class,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,Southampton (UK),London,Unknown
+734,Third class,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,,Southampton (UK),"England Brooklyn, NY",Unknown
+735,Third class,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,,Southampton (UK),"England Brooklyn, NY",Unknown
+736,Third class,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36.0,0,2,C.A. 37671,15.9,,Southampton (UK),"England Brooklyn, NY",Unknown
+737,Third class,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,,Southampton (UK),"Merrill, WI",Unknown
+738,Third class,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,,Southampton (UK),"Bristol, England Cleveland, OH",Unknown
+739,Third class,"Cribb, Miss. Laura Alice",female,17.0,0,1,371362,16.1,,Southampton (UK),"Bournemouth, England Newark, NJ",Unknown
+740,Third class,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,,Southampton (UK),"Bournemouth, England Newark, NJ",Unknown
+741,Third class,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,,Southampton (UK),Austria-Hungary,Unknown
+742,Third class,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,Cherbourg (FR),Unknown,Unknown
+743,Third class,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,,Southampton (UK),"Australia Fingal, ND",Unknown
+744,Third class,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,,Southampton (UK),"Norrlot, Sweden Chicago, IL",Unknown
+745,Third class,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,,Southampton (UK),Austria,Unknown
+746,Third class,"Daly, Miss. Margaret Marcella ""Maggie""",female,30.0,0,0,382650,6.95,,Queenstown (IE),"Co Athlone, Ireland New York, NY",Unknown
+747,Third class,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,,Queenstown (IE),"Co Athlone, Ireland New York, NY",Unknown
+748,Third class,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3333,0,2,347080,14.4,,Southampton (UK),"Stanton, IA",Unknown
+749,Third class,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,14.4,,Southampton (UK),"Stanton, IA",Unknown
+750,Third class,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,14.4,,Southampton (UK),"Stanton, IA",Unknown
+751,Third class,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,,Southampton (UK),"Bulgaria Chicago, IL",Unknown
+752,Third class,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,,Southampton (UK),"Bulgaria Chicago, IL",Unknown
+753,Third class,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,Southampton (UK),"West Bromwich, England Pontiac, MI",Unknown
+754,Third class,"Davies, Mr. Evan",male,22.0,0,0,SC/A4 23568,8.05,,Southampton (UK),Unknown,Unknown
+755,Third class,"Davies, Mr. John Samuel",male,21.0,2,0,A/4 48871,24.15,,Southampton (UK),"West Bromwich, England Pontiac, MI",Unknown
+756,Third class,"Davies, Mr. Joseph",male,17.0,2,0,A/4 48873,8.05,,Southampton (UK),"West Bromwich, England Pontiac, MI",Unknown
+757,Third class,"Davison, Mr. Thomas Henry",male,25.0,1,0,386525,16.1,,Southampton (UK),"Liverpool, England Bedford, OH",Unknown
+758,Third class,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,22.0,1,0,386525,16.1,,Southampton (UK),"Liverpool, England Bedford, OH",Unknown
+759,Third class,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,Southampton (UK),"Tampico, MT",Unknown
+760,Third class,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,Southampton (UK),"Tampico, MT",Unknown
+761,Third class,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,,Southampton (UK),"Belgium Detroit, MI",Unknown
+762,Third class,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,,Southampton (UK),Unknown,Unknown
+763,Third class,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,20.575,,Southampton (UK),"Devon, England Wichita, KS",Unknown
+764,Third class,"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0.1667,1,2,C.A. 2315,20.575,,Southampton (UK),"Devon, England Wichita, KS",Unknown
+765,Third class,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,,Southampton (UK),"Devon, England Wichita, KS",Unknown
+766,Third class,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,C.A. 2315,20.575,,Southampton (UK),"Devon, England Wichita, KS",Unknown
+767,Third class,"Delalic, Mr. Redjo",male,25.0,0,0,349250,7.8958,,Southampton (UK),Unknown,Unknown
+768,Third class,"Demetri, Mr. Marinko",male,25.0,0,0,349238,7.8958,,Southampton (UK),Unknown,Unknown
+769,Third class,"Denkoff, Mr. Mitto",male,25.0,0,0,349225,7.8958,,Southampton (UK),"Bulgaria Coon Rapids, IA",Unknown
+770,Third class,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,,Southampton (UK),Unknown,Unknown
+771,Third class,"Dennis, Mr. William",male,36.0,0,0,A/5 21175,7.25,,Southampton (UK),Unknown,Unknown
+772,Third class,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Queenstown (IE),"Kilmacowen, Co Sligo, Ireland New York, NY",Unknown
+773,Third class,"Dika, Mr. Mirko",male,17.0,0,0,349232,7.8958,,Southampton (UK),Unknown,Unknown
+774,Third class,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,,Southampton (UK),Unknown,Unknown
+775,Third class,"Dintcheff, Mr. Valtcho",male,43.0,0,0,349226,7.8958,,Southampton (UK),Unknown,Unknown
+776,Third class,"Doharr, Mr. Tannous",male,25.0,0,0,2686,7.2292,,Cherbourg (FR),Unknown,Unknown
+777,Third class,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,,Queenstown (IE),"Ireland New York, NY",Unknown
+778,Third class,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,,Southampton (UK),"England Oglesby, IL",Unknown
+779,Third class,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,,Southampton (UK),"Union Hill, NJ",Unknown
+780,Third class,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,,Queenstown (IE),"Ireland New York, NY",Unknown
+781,Third class,"Drapkin, Miss. Jennie",female,23.0,0,0,SOTON/OQ 392083,8.05,,Southampton (UK),"London New York, NY",Unknown
+782,Third class,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,,Cherbourg (FR),"Austria Niagara Falls, NY",Unknown
+783,Third class,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Queenstown (IE),Unknown,Unknown
+784,Third class,"Duquemin, Mr. Joseph",male,24.0,0,0,S.O./P.P. 752,7.55,,Southampton (UK),"England Albion, NY",Unknown
+785,Third class,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,347072,13.9,,Southampton (UK),"West Haven, CT",Unknown
+786,Third class,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,347072,13.9,,Southampton (UK),"West Haven, CT",Unknown
+787,Third class,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,7.775,,Southampton (UK),"Tofta, Sweden Joliet, IL",Unknown
+788,Third class,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,7.775,,Southampton (UK),"Karberg, Sweden Jerome Junction, AZ",Unknown
+789,Third class,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,,Southampton (UK),"Effington Rut, SD",Unknown
+790,Third class,"Elias, Mr. Dibo",male,25.0,0,0,2674,7.225,,Cherbourg (FR),Unknown,Unknown
+791,Third class,"Elias, Mr. Joseph",male,39.0,0,2,2675,7.2292,,Cherbourg (FR),"Syria Ottawa, ON",Unknown
+792,Third class,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,,Cherbourg (FR),Unknown,Unknown
+793,Third class,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,,Cherbourg (FR),Syria,Unknown
+794,Third class,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,7.25,,Southampton (UK),"Illinois, USA",Unknown
+795,Third class,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,,Southampton (UK),"New York, NY",Unknown
+796,Third class,"Emir, Mr. Farred Chehab",male,25.0,0,0,2631,7.225,,Cherbourg (FR),Unknown,Unknown
+797,Third class,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,Southampton (UK),Unknown,Unknown
+798,Third class,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Queenstown (IE),"Aughnacliff, Co Longford, Ireland New York, NY",Unknown
+799,Third class,"Finoli, Mr. Luigi",male,25.0,0,0,SOTON/O.Q. 3101308,7.05,,Southampton (UK),"Italy Philadelphia, PA",Unknown
+800,Third class,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,7.7958,,Southampton (UK),Unknown,Unknown
+801,Third class,"Fleming, Miss. Honora",female,22.0,0,0,364859,7.75,,Queenstown (IE),Unknown,Unknown
+802,Third class,"Flynn, Mr. James",male,25.0,0,0,364851,7.75,,Queenstown (IE),Unknown,Unknown
+803,Third class,"Flynn, Mr. John",male,25.0,0,0,368323,6.95,,Queenstown (IE),Unknown,Unknown
+804,Third class,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,,Queenstown (IE),"Ireland Chicago, IL",Unknown
+805,Third class,"Foley, Mr. William",male,25.0,0,0,365235,7.75,,Queenstown (IE),Ireland,Unknown
+806,Third class,"Foo, Mr. Choong",male,25.0,0,0,1601,56.4958,,Southampton (UK),"Hong Kong New York, NY",Unknown
+807,Third class,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,,Southampton (UK),"Rotherfield, Sussex, England Essex Co, MA",Unknown
+808,Third class,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,,Southampton (UK),"Rotherfield, Sussex, England Essex Co, MA",Unknown
+809,Third class,"Ford, Mr. Arthur",male,25.0,0,0,A/5 1478,8.05,,Southampton (UK),"Bridgwater, Somerset, England",Unknown
+810,Third class,"Ford, Mr. Edward Watson",male,18.0,2,2,W./C. 6608,34.375,,Southampton (UK),"Rotherfield, Sussex, England Essex Co, MA",Unknown
+811,Third class,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,,Southampton (UK),"Rotherfield, Sussex, England Essex Co, MA",Unknown
+812,Third class,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,,Southampton (UK),"Rotherfield, Sussex, England Essex Co, MA",Unknown
+813,Third class,"Fox, Mr. Patrick",male,25.0,0,0,368573,7.75,,Queenstown (IE),"Ireland New York, NY",Unknown
+814,Third class,"Franklin, Mr. Charles (Charles Fardon)",male,25.0,0,0,SOTON/O.Q. 3101314,7.25,,Southampton (UK),Unknown,Unknown
+815,Third class,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,,Queenstown (IE),"New York, NY",Unknown
+816,Third class,"Garfirth, Mr. John",male,25.0,0,0,358585,14.5,,Southampton (UK),Unknown,Unknown
+817,Third class,"Gheorgheff, Mr. Stanio",male,25.0,0,0,349254,7.8958,,Cherbourg (FR),Unknown,Unknown
+818,Third class,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,,Southampton (UK),Unknown,Unknown
+819,Third class,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,,Queenstown (IE),"Co Longford, Ireland New York, NY",Unknown
+820,Third class,"Glynn, Miss. Mary Agatha",female,22.0,0,0,335677,7.75,,Queenstown (IE),"Co Clare, Ireland Washington, DC",Unknown
+821,Third class,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,,Southampton (UK),"Strood, Kent, England Detroit, MI",Unknown
+822,Third class,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,,Southampton (UK),"Strood, Kent, England Detroit, MI",Unknown
+823,Third class,"Goldsmith, Mr. Nathan",male,41.0,0,0,SOTON/O.Q. 3101263,7.85,,Southampton (UK),"Philadelphia, PA",Unknown
+824,Third class,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,,Southampton (UK),"Strood, Kent, England Detroit, MI",Unknown
+825,Third class,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,,Southampton (UK),Portugal,Unknown
+826,Third class,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+827,Third class,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+828,Third class,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+829,Third class,"Goodwin, Miss. Jessie Allis",female,10.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+830,Third class,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+831,Third class,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+832,Third class,"Goodwin, Mr. Charles Frederick",male,40.0,1,6,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+833,Third class,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,,Southampton (UK),"Wiltshire, England Niagara Falls, NY",Unknown
+834,Third class,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,,Southampton (UK),"Dorking, Surrey, England",Unknown
+835,Third class,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,,Southampton (UK),"Foresvik, Norway Portland, ND",Unknown
+836,Third class,"Guest, Mr. Robert",male,25.0,0,0,376563,8.05,,Southampton (UK),Unknown,Unknown
+837,Third class,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,9.8458,,Southampton (UK),"Waukegan, Chicago, IL",Unknown
+838,Third class,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,,Southampton (UK),"Ruotsinphytaa, Finland New York, NY",Unknown
+839,Third class,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,7.925,,Southampton (UK),"Ruotsinphytaa, Finland New York, NY",Unknown
+840,Third class,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,7.775,,Southampton (UK),"Myren, Sweden New York, NY",Unknown
+841,Third class,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,,Southampton (UK),Unknown,Unknown
+842,Third class,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,,Queenstown (IE),Unknown,Unknown
+843,Third class,"Hagland, Mr. Ingvald Olai Olsen",male,25.0,1,0,65303,19.9667,,Southampton (UK),Unknown,Unknown
+844,Third class,"Hagland, Mr. Konrad Mathias Reiersen",male,25.0,1,0,65304,19.9667,,Southampton (UK),Unknown,Unknown
+845,Third class,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,,Southampton (UK),Unknown,Unknown
+846,Third class,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,Southampton (UK),Unknown,Unknown
+847,Third class,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,,Southampton (UK),Unknown,Unknown
+848,Third class,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,,Cherbourg (FR),Unknown,Unknown
+849,Third class,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,,Southampton (UK),Unknown,Unknown
+850,Third class,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,7.8542,,Southampton (UK),Unknown,Unknown
+851,Third class,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,,Southampton (UK),Unknown,Unknown
+852,Third class,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1,0,350026,14.1083,,Southampton (UK),Unknown,Unknown
+853,Third class,"Harknett, Miss. Alice Phoebe",female,22.0,0,0,W./C. 6609,7.55,,Southampton (UK),Unknown,Unknown
+854,Third class,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,,Southampton (UK),Unknown,Unknown
+855,Third class,"Hart, Mr. Henry",male,25.0,0,0,394140,6.8583,,Queenstown (IE),Unknown,Unknown
+856,Third class,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,,Cherbourg (FR),Unknown,Unknown
+857,Third class,"Healy, Miss. Hanora ""Nora""",female,22.0,0,0,370375,7.75,,Queenstown (IE),Unknown,Unknown
+858,Third class,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6.975,,Southampton (UK),Unknown,Unknown
+859,Third class,"Hee, Mr. Ling",male,25.0,0,0,1601,56.4958,,Southampton (UK),Unknown,Unknown
+860,Third class,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,,Queenstown (IE),Unknown,Unknown
+861,Third class,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,Southampton (UK),Unknown,Unknown
+862,Third class,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,,Southampton (UK),Unknown,Unknown
+863,Third class,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,7548,8.9625,,Southampton (UK),Unknown,Unknown
+864,Third class,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,,Southampton (UK),Unknown,Unknown
+865,Third class,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,347086,7.775,,Southampton (UK),Unknown,Unknown
+866,Third class,"Henry, Miss. Delia",female,22.0,0,0,382649,7.75,,Queenstown (IE),Unknown,Unknown
+867,Third class,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,Southampton (UK),Unknown,Unknown
+868,Third class,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22.0,1,1,3101298,12.2875,,Southampton (UK),Unknown,Unknown
+869,Third class,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,,Southampton (UK),Unknown,Unknown
+870,Third class,"Holthen, Mr. Johan Martin",male,28.0,0,0,C 4001,22.525,,Southampton (UK),Unknown,Unknown
+871,Third class,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,,Southampton (UK),Unknown,Unknown
+872,Third class,"Horgan, Mr. John",male,25.0,0,0,370377,7.75,,Queenstown (IE),Unknown,Unknown
+873,Third class,"Howard, Miss. May Elizabeth",female,22.0,0,0,A. 2. 39186,8.05,,Southampton (UK),Unknown,Unknown
+874,Third class,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,F G63,Southampton (UK),Unknown,F
+875,Third class,"Hyman, Mr. Abraham",male,25.0,0,0,3470,7.8875,,Southampton (UK),Unknown,Unknown
+876,Third class,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,,Cherbourg (FR),Unknown,Unknown
+877,Third class,"Ilieff, Mr. Ylio",male,25.0,0,0,349220,7.8958,,Southampton (UK),Unknown,Unknown
+878,Third class,"Ilmakangas, Miss. Ida Livija",female,27.0,1,0,STON/O2. 3101270,7.925,,Southampton (UK),Unknown,Unknown
+879,Third class,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,7.925,,Southampton (UK),Unknown,Unknown
+880,Third class,"Ivanoff, Mr. Kanio",male,25.0,0,0,349201,7.8958,,Southampton (UK),Unknown,Unknown
+881,Third class,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,,Cherbourg (FR),Unknown,Unknown
+882,Third class,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,7.7958,,Southampton (UK),Unknown,Unknown
+883,Third class,"Jardin, Mr. Jose Neto",male,25.0,0,0,SOTON/O.Q. 3101305,7.05,,Southampton (UK),Unknown,Unknown
+884,Third class,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,,Southampton (UK),Unknown,Unknown
+885,Third class,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,,Southampton (UK),Unknown,Unknown
+886,Third class,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,7.0542,,Southampton (UK),Unknown,Unknown
+887,Third class,"Jermyn, Miss. Annie",female,22.0,0,0,14313,7.75,,Queenstown (IE),Unknown,Unknown
+888,Third class,"Johannesen-Bratthammer, Mr. Bernt",male,25.0,0,0,65306,8.1125,,Southampton (UK),Unknown,Unknown
+889,Third class,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,,Southampton (UK),Unknown,Unknown
+890,Third class,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0,0,347070,7.775,,Southampton (UK),Unknown,Unknown
+891,Third class,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,,Southampton (UK),Unknown,Unknown
+892,Third class,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,,Southampton (UK),Unknown,Unknown
+893,Third class,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,7.775,,Southampton (UK),Unknown,Unknown
+894,Third class,"Johansson, Mr. Nils",male,29.0,0,0,347467,7.8542,,Southampton (UK),Unknown,Unknown
+895,Third class,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,,Southampton (UK),Unknown,Unknown
+896,Third class,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,,Southampton (UK),Unknown,Unknown
+897,Third class,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,,Southampton (UK),Unknown,Unknown
+898,Third class,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,,Southampton (UK),Unknown,Unknown
+899,Third class,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,,Southampton (UK),Unknown,Unknown
+900,Third class,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,,Southampton (UK),Unknown,Unknown
+901,Third class,"Johnston, Master. William Arthur ""Willie""",male,25.0,1,2,W./C. 6607,23.45,,Southampton (UK),Unknown,Unknown
+902,Third class,"Johnston, Miss. Catherine Helen ""Carrie""",female,22.0,1,2,W./C. 6607,23.45,,Southampton (UK),Unknown,Unknown
+903,Third class,"Johnston, Mr. Andrew G",male,25.0,1,2,W./C. 6607,23.45,,Southampton (UK),Unknown,Unknown
+904,Third class,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,22.0,1,2,W./C. 6607,23.45,,Southampton (UK),Unknown,Unknown
+905,Third class,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,,Southampton (UK),Unknown,Unknown
+906,Third class,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,,Southampton (UK),Unknown,Unknown
+907,Third class,"Jonsson, Mr. Nils Hilding",male,27.0,0,0,350408,7.8542,,Southampton (UK),Unknown,Unknown
+908,Third class,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,,Southampton (UK),Unknown,Unknown
+909,Third class,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,9.825,,Southampton (UK),Unknown,Unknown
+910,Third class,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,7.925,,Southampton (UK),Unknown,Unknown
+911,Third class,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,,Southampton (UK),Unknown,Unknown
+912,Third class,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,,Southampton (UK),Unknown,Unknown
+913,Third class,"Karaic, Mr. Milan",male,30.0,0,0,349246,7.8958,,Southampton (UK),Unknown,Unknown
+914,Third class,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,350053,7.7958,,Southampton (UK),Unknown,Unknown
+915,Third class,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0,0,347465,7.8542,,Southampton (UK),Unknown,Unknown
+916,Third class,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,,Southampton (UK),Unknown,Unknown
+917,Third class,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,,Cherbourg (FR),Unknown,Unknown
+918,Third class,"Karun, Mr. Franz",male,39.0,0,1,349256,13.4167,,Cherbourg (FR),Unknown,Unknown
+919,Third class,"Kassem, Mr. Fared",male,25.0,0,0,2700,7.2292,,Cherbourg (FR),Unknown,Unknown
+920,Third class,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,18.5,0,0,2682,7.2292,,Cherbourg (FR),Unknown,Unknown
+921,Third class,"Keane, Mr. Andrew ""Andy""",male,25.0,0,0,12460,7.75,,Queenstown (IE),Unknown,Unknown
+922,Third class,"Keefe, Mr. Arthur",male,25.0,0,0,323592,7.25,,Southampton (UK),Unknown,Unknown
+923,Third class,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,22.0,0,0,9234,7.75,,Queenstown (IE),Unknown,Unknown
+924,Third class,"Kelly, Miss. Mary",female,22.0,0,0,14312,7.75,,Queenstown (IE),Unknown,Unknown
+925,Third class,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Queenstown (IE),Unknown,Unknown
+926,Third class,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,,Southampton (UK),Unknown,Unknown
+927,Third class,"Kennedy, Mr. John",male,25.0,0,0,368783,7.75,,Queenstown (IE),Unknown,Unknown
+928,Third class,"Khalil, Mr. Betros",male,25.0,1,0,2660,14.4542,,Cherbourg (FR),Unknown,Unknown
+929,Third class,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,22.0,1,0,2660,14.4542,,Cherbourg (FR),Unknown,Unknown
+930,Third class,"Kiernan, Mr. John",male,25.0,1,0,367227,7.75,,Queenstown (IE),Unknown,Unknown
+931,Third class,"Kiernan, Mr. Philip",male,25.0,1,0,367229,7.75,,Queenstown (IE),Unknown,Unknown
+932,Third class,"Kilgannon, Mr. Thomas J",male,25.0,0,0,36865,7.7375,,Queenstown (IE),Unknown,Unknown
+933,Third class,"Kink, Miss. Maria",female,22.0,2,0,315152,8.6625,,Southampton (UK),Unknown,Unknown
+934,Third class,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,,Southampton (UK),Unknown,Unknown
+935,Third class,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,,Southampton (UK),Unknown,Unknown
+936,Third class,"Kink-Heilmann, Mr. Anton",male,29.0,3,1,315153,22.025,,Southampton (UK),Unknown,Unknown
+937,Third class,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,315153,22.025,,Southampton (UK),Unknown,Unknown
+938,Third class,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,350405,12.1833,,Southampton (UK),Unknown,Unknown
+939,Third class,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,,Southampton (UK),Unknown,Unknown
+940,Third class,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0,2,350405,12.1833,,Southampton (UK),Unknown,Unknown
+941,Third class,"Kraeff, Mr. Theodor",male,25.0,0,0,349253,7.8958,,Cherbourg (FR),Unknown,Unknown
+942,Third class,"Krekorian, Mr. Neshan",male,25.0,0,0,2654,7.2292,F E57,Cherbourg (FR),Unknown,F
+943,Third class,"Lahoud, Mr. Sarkis",male,25.0,0,0,2624,7.225,,Cherbourg (FR),Unknown,Unknown
+944,Third class,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,,Southampton (UK),Unknown,Unknown
+945,Third class,"Laleff, Mr. Kristo",male,25.0,0,0,349217,7.8958,,Southampton (UK),Unknown,Unknown
+946,Third class,"Lam, Mr. Ali",male,25.0,0,0,1601,56.4958,,Southampton (UK),Unknown,Unknown
+947,Third class,"Lam, Mr. Len",male,25.0,0,0,1601,56.4958,,Southampton (UK),Unknown,Unknown
+948,Third class,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,,Southampton (UK),Unknown,Unknown
+949,Third class,"Lane, Mr. Patrick",male,25.0,0,0,7935,7.75,,Queenstown (IE),Unknown,Unknown
+950,Third class,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,,Southampton (UK),Unknown,Unknown
+951,Third class,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,,Southampton (UK),Unknown,Unknown
+952,Third class,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,,Southampton (UK),Unknown,Unknown
+953,Third class,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0,0,347065,7.775,,Southampton (UK),Unknown,Unknown
+954,Third class,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,,Cherbourg (FR),Unknown,Unknown
+955,Third class,"Lefebre, Master. Henry Forbes",male,25.0,3,1,4133,25.4667,,Southampton (UK),Unknown,Unknown
+956,Third class,"Lefebre, Miss. Ida",female,22.0,3,1,4133,25.4667,,Southampton (UK),Unknown,Unknown
+957,Third class,"Lefebre, Miss. Jeannie",female,22.0,3,1,4133,25.4667,,Southampton (UK),Unknown,Unknown
+958,Third class,"Lefebre, Miss. Mathilde",female,22.0,3,1,4133,25.4667,,Southampton (UK),Unknown,Unknown
+959,Third class,"Lefebre, Mrs. Frank (Frances)",female,22.0,0,4,4133,25.4667,,Southampton (UK),Unknown,Unknown
+960,Third class,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,7.925,,Southampton (UK),Unknown,Unknown
+961,Third class,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,,Cherbourg (FR),Unknown,Unknown
+962,Third class,"Lennon, Miss. Mary",female,22.0,1,0,370371,15.5,,Queenstown (IE),Unknown,Unknown
+963,Third class,"Lennon, Mr. Denis",male,25.0,1,0,370371,15.5,,Queenstown (IE),Unknown,Unknown
+964,Third class,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,,Southampton (UK),Unknown,Unknown
+965,Third class,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,,Southampton (UK),Unknown,Unknown
+966,Third class,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,9.5,,Southampton (UK),Unknown,Unknown
+967,Third class,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,7.775,,Southampton (UK),Unknown,Unknown
+968,Third class,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,,Southampton (UK),Unknown,Unknown
+969,Third class,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,15.55,,Southampton (UK),Unknown,Unknown
+970,Third class,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,349910,15.55,,Southampton (UK),Unknown,Unknown
+971,Third class,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,7.925,,Southampton (UK),Unknown,Unknown
+972,Third class,"Linehan, Mr. Michael",male,25.0,0,0,330971,7.8792,,Queenstown (IE),Unknown,Unknown
+973,Third class,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,,Southampton (UK),Unknown,Unknown
+974,Third class,"Lithman, Mr. Simon",male,25.0,0,0,S.O./P.P. 251,7.55,,Southampton (UK),Unknown,Unknown
+975,Third class,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,16.1,,Southampton (UK),Unknown,Unknown
+976,Third class,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,,Southampton (UK),Unknown,Unknown
+977,Third class,"Lockyer, Mr. Edward",male,25.0,0,0,1222,7.8792,,Southampton (UK),Unknown,Unknown
+978,Third class,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,,Southampton (UK),Unknown,Unknown
+979,Third class,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,,Southampton (UK),Unknown,Unknown
+980,Third class,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,7.0542,,Southampton (UK),Unknown,Unknown
+981,Third class,"Lundin, Miss. Olga Elida",female,23.0,0,0,347469,7.8542,,Southampton (UK),Unknown,Unknown
+982,Third class,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,350403,7.5792,,Southampton (UK),Unknown,Unknown
+983,Third class,"Lyntakoff, Mr. Stanko",male,25.0,0,0,349235,7.8958,,Southampton (UK),Unknown,Unknown
+984,Third class,"MacKay, Mr. George William",male,25.0,0,0,C.A. 42795,7.55,,Southampton (UK),Unknown,Unknown
+985,Third class,"Madigan, Miss. Margaret ""Maggie""",female,22.0,0,0,370370,7.75,,Queenstown (IE),Unknown,Unknown
+986,Third class,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,,Southampton (UK),Unknown,Unknown
+987,Third class,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,7.125,,Southampton (UK),Unknown,Unknown
+988,Third class,"Mahon, Miss. Bridget Delia",female,22.0,0,0,330924,7.8792,,Queenstown (IE),Unknown,Unknown
+989,Third class,"Mahon, Mr. John",male,25.0,0,0,AQ/4 3130,7.75,,Queenstown (IE),Unknown,Unknown
+990,Third class,"Maisner, Mr. Simon",male,25.0,0,0,A/S 2816,8.05,,Southampton (UK),Unknown,Unknown
+991,Third class,"Makinen, Mr. Kalle Edvard",male,29.0,0,0,STON/O 2. 3101268,7.925,,Southampton (UK),Unknown,Unknown
+992,Third class,"Mamee, Mr. Hanna",male,25.0,0,0,2677,7.2292,,Cherbourg (FR),Unknown,Unknown
+993,Third class,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,,Queenstown (IE),Unknown,Unknown
+994,Third class,"Mannion, Miss. Margareth",female,22.0,0,0,36866,7.7375,,Queenstown (IE),Unknown,Unknown
+995,Third class,"Mardirosian, Mr. Sarkis",male,25.0,0,0,2655,7.2292,F E46,Cherbourg (FR),Unknown,F
+996,Third class,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,,Cherbourg (FR),Unknown,Unknown
+997,Third class,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,,Southampton (UK),Unknown,Unknown
+998,Third class,"Masselmani, Mrs. Fatima",female,22.0,0,0,2649,7.225,,Cherbourg (FR),Unknown,Unknown
+999,Third class,"Matinoff, Mr. Nicola",male,25.0,0,0,349255,7.8958,,Cherbourg (FR),Unknown,Unknown
+1000,Third class,"McCarthy, Miss. Catherine ""Katie""",female,22.0,0,0,383123,7.75,,Queenstown (IE),Unknown,Unknown
+1001,Third class,"McCormack, Mr. Thomas Joseph",male,25.0,0,0,367228,7.75,,Queenstown (IE),Unknown,Unknown
+1002,Third class,"McCoy, Miss. Agnes",female,22.0,2,0,367226,23.25,,Queenstown (IE),Unknown,Unknown
+1003,Third class,"McCoy, Miss. Alicia",female,22.0,2,0,367226,23.25,,Queenstown (IE),Unknown,Unknown
+1004,Third class,"McCoy, Mr. Bernard",male,25.0,2,0,367226,23.25,,Queenstown (IE),Unknown,Unknown
+1005,Third class,"McDermott, Miss. Brigdet Delia",female,22.0,0,0,330932,7.7875,,Queenstown (IE),Unknown,Unknown
+1006,Third class,"McEvoy, Mr. Michael",male,25.0,0,0,36568,15.5,,Queenstown (IE),Unknown,Unknown
+1007,Third class,"McGovern, Miss. Mary",female,22.0,0,0,330931,7.8792,,Queenstown (IE),Unknown,Unknown
+1008,Third class,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Queenstown (IE),Unknown,Unknown
+1009,Third class,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,,Queenstown (IE),Unknown,Unknown
+1010,Third class,"McMahon, Mr. Martin",male,25.0,0,0,370372,7.75,,Queenstown (IE),Unknown,Unknown
+1011,Third class,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,,Southampton (UK),Unknown,Unknown
+1012,Third class,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,376566,16.1,,Southampton (UK),Unknown,Unknown
+1013,Third class,"McNeill, Miss. Bridget",female,22.0,0,0,370368,7.75,,Queenstown (IE),Unknown,Unknown
+1014,Third class,"Meanwell, Miss. (Marion Ogden)",female,22.0,0,0,SOTON/O.Q. 392087,8.05,,Southampton (UK),Unknown,Unknown
+1015,Third class,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,22.0,0,0,343095,8.05,,Southampton (UK),Unknown,Unknown
+1016,Third class,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,,Southampton (UK),Unknown,Unknown
+1017,Third class,"Mernagh, Mr. Robert",male,25.0,0,0,368703,7.75,,Queenstown (IE),Unknown,Unknown
+1018,Third class,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,345501,7.775,,Southampton (UK),Unknown,Unknown
+1019,Third class,"Miles, Mr. Frank",male,25.0,0,0,359306,8.05,,Southampton (UK),Unknown,Unknown
+1020,Third class,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,,Southampton (UK),Unknown,Unknown
+1021,Third class,"Minkoff, Mr. Lazar",male,21.0,0,0,349211,7.8958,,Southampton (UK),Unknown,Unknown
+1022,Third class,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,,Southampton (UK),Unknown,Unknown
+1023,Third class,"Mitkoff, Mr. Mito",male,25.0,0,0,349221,7.8958,,Southampton (UK),Unknown,Unknown
+1024,Third class,"Mockler, Miss. Helen Mary ""Ellie""",female,22.0,0,0,330980,7.8792,,Queenstown (IE),Unknown,Unknown
+1025,Third class,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,Southampton (UK),Unknown,F
+1026,Third class,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,Southampton (UK),Unknown,E
+1027,Third class,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,Southampton (UK),Unknown,E
+1028,Third class,"Moore, Mr. Leonard Charles",male,25.0,0,0,A4. 54510,8.05,,Southampton (UK),Unknown,Unknown
+1029,Third class,"Moran, Miss. Bertha",female,22.0,1,0,371110,24.15,,Queenstown (IE),Unknown,Unknown
+1030,Third class,"Moran, Mr. Daniel J",male,25.0,1,0,371110,24.15,,Queenstown (IE),Unknown,Unknown
+1031,Third class,"Moran, Mr. James",male,25.0,0,0,330877,8.4583,,Queenstown (IE),Unknown,Unknown
+1032,Third class,"Morley, Mr. William",male,34.0,0,0,364506,8.05,,Southampton (UK),Unknown,Unknown
+1033,Third class,"Morrow, Mr. Thomas Rowan",male,25.0,0,0,372622,7.75,,Queenstown (IE),Unknown,Unknown
+1034,Third class,"Moss, Mr. Albert Johan",male,25.0,0,0,312991,7.775,,Southampton (UK),Unknown,Unknown
+1035,Third class,"Moubarek, Master. Gerios",male,25.0,1,1,2661,15.2458,,Cherbourg (FR),Unknown,Unknown
+1036,Third class,"Moubarek, Master. Halim Gonios (""William George"")",male,25.0,1,1,2661,15.2458,,Cherbourg (FR),Unknown,Unknown
+1037,Third class,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,22.0,0,2,2661,15.2458,,Cherbourg (FR),Unknown,Unknown
+1038,Third class,"Moussa, Mrs. (Mantoura Boulos)",female,22.0,0,0,2626,7.2292,,Cherbourg (FR),Unknown,Unknown
+1039,Third class,"Moutal, Mr. Rahamin Haim",male,25.0,0,0,374746,8.05,,Southampton (UK),Unknown,Unknown
+1040,Third class,"Mullens, Miss. Katherine ""Katie""",female,22.0,0,0,35852,7.7333,,Queenstown (IE),Unknown,Unknown
+1041,Third class,"Mulvihill, Miss. Bertha E",female,24.0,0,0,382653,7.75,,Queenstown (IE),Unknown,Unknown
+1042,Third class,"Murdlin, Mr. Joseph",male,25.0,0,0,A./5. 3235,8.05,,Southampton (UK),Unknown,Unknown
+1043,Third class,"Murphy, Miss. Katherine ""Kate""",female,22.0,1,0,367230,15.5,,Queenstown (IE),Unknown,Unknown
+1044,Third class,"Murphy, Miss. Margaret Jane",female,22.0,1,0,367230,15.5,,Queenstown (IE),Unknown,Unknown
+1045,Third class,"Murphy, Miss. Nora",female,22.0,0,0,36568,15.5,,Queenstown (IE),Unknown,Unknown
+1046,Third class,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,,Southampton (UK),Unknown,Unknown
+1047,Third class,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,,Southampton (UK),Unknown,Unknown
+1048,Third class,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,,Cherbourg (FR),Unknown,Unknown
+1049,Third class,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,,Cherbourg (FR),Unknown,Unknown
+1050,Third class,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,,Cherbourg (FR),Unknown,Unknown
+1051,Third class,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19.0,1,1,2653,15.7417,,Cherbourg (FR),Unknown,Unknown
+1052,Third class,"Nancarrow, Mr. William Henry",male,33.0,0,0,A./5. 3338,8.05,,Southampton (UK),Unknown,Unknown
+1053,Third class,"Nankoff, Mr. Minko",male,25.0,0,0,349218,7.8958,,Southampton (UK),Unknown,Unknown
+1054,Third class,"Nasr, Mr. Mustafa",male,25.0,0,0,2652,7.2292,,Cherbourg (FR),Unknown,Unknown
+1055,Third class,"Naughton, Miss. Hannah",female,22.0,0,0,365237,7.75,,Queenstown (IE),Unknown,Unknown
+1056,Third class,"Nenkoff, Mr. Christo",male,25.0,0,0,349234,7.8958,,Southampton (UK),Unknown,Unknown
+1057,Third class,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,,Cherbourg (FR),Unknown,Unknown
+1058,Third class,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,Cherbourg (FR),Unknown,Unknown
+1059,Third class,"Nieminen, Miss. Manta Josefina",female,29.0,0,0,3101297,7.925,,Southampton (UK),Unknown,Unknown
+1060,Third class,"Niklasson, Mr. Samuel",male,28.0,0,0,363611,8.05,,Southampton (UK),Unknown,Unknown
+1061,Third class,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,347066,7.775,,Southampton (UK),Unknown,Unknown
+1062,Third class,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,,Southampton (UK),Unknown,Unknown
+1063,Third class,"Nilsson, Mr. August Ferdinand",male,21.0,0,0,350410,7.8542,,Southampton (UK),Unknown,Unknown
+1064,Third class,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,,Southampton (UK),"Finland Sudbury, ON",Unknown
+1065,Third class,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,7.925,,Southampton (UK),Unknown,Unknown
+1066,Third class,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,,Southampton (UK),Unknown,Unknown
+1067,Third class,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,,Cherbourg (FR),Unknown,Unknown
+1068,Third class,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,,Southampton (UK),Unknown,Unknown
+1069,Third class,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,,Southampton (UK),Unknown,Unknown
+1070,Third class,"O'Brien, Mr. Thomas",male,25.0,1,0,370365,15.5,,Queenstown (IE),Unknown,Unknown
+1071,Third class,"O'Brien, Mr. Timothy",male,25.0,0,0,330979,7.8292,,Queenstown (IE),Unknown,Unknown
+1072,Third class,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,22.0,1,0,370365,15.5,,Queenstown (IE),Unknown,Unknown
+1073,Third class,"O'Connell, Mr. Patrick D",male,25.0,0,0,334912,7.7333,,Queenstown (IE),Unknown,Unknown
+1074,Third class,"O'Connor, Mr. Maurice",male,25.0,0,0,371060,7.75,,Queenstown (IE),Unknown,Unknown
+1075,Third class,"O'Connor, Mr. Patrick",male,25.0,0,0,366713,7.75,,Queenstown (IE),Unknown,Unknown
+1076,Third class,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,,Southampton (UK),Unknown,Unknown
+1077,Third class,"O'Donoghue, Ms. Bridget",female,22.0,0,0,364856,7.75,,Queenstown (IE),Unknown,Unknown
+1078,Third class,"O'Driscoll, Miss. Bridget",female,22.0,0,0,14311,7.75,,Queenstown (IE),Unknown,Unknown
+1079,Third class,"O'Dwyer, Miss. Ellen ""Nellie""",female,22.0,0,0,330959,7.8792,,Queenstown (IE),Unknown,Unknown
+1080,Third class,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,,Southampton (UK),Unknown,Unknown
+1081,Third class,"O'Keefe, Mr. Patrick",male,25.0,0,0,368402,7.75,,Queenstown (IE),Unknown,Unknown
+1082,Third class,"O'Leary, Miss. Hanora ""Norah""",female,22.0,0,0,330919,7.8292,,Queenstown (IE),Unknown,Unknown
+1083,Third class,"Olsen, Master. Artur Karl",male,9.0,0,1,C 17368,3.1708,,Southampton (UK),Unknown,Unknown
+1084,Third class,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,,Southampton (UK),Unknown,Unknown
+1085,Third class,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,,Southampton (UK),Unknown,Unknown
+1086,Third class,"Olsen, Mr. Ole Martin",male,25.0,0,0,Fa 265302,7.3125,,Southampton (UK),Unknown,Unknown
+1087,Third class,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,,Southampton (UK),Unknown,Unknown
+1088,Third class,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,7.8542,,Southampton (UK),Unknown,Unknown
+1089,Third class,"Olsson, Mr. Oscar Wilhelm",male,32.0,0,0,347079,7.775,,Southampton (UK),Unknown,Unknown
+1090,Third class,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,,Southampton (UK),"Oslo, Norway Cameron, WI",Unknown
+1091,Third class,"Oreskovic, Miss. Jelka",female,23.0,0,0,315085,8.6625,,Southampton (UK),Unknown,Unknown
+1092,Third class,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,8.6625,,Southampton (UK),Unknown,Unknown
+1093,Third class,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,8.6625,,Southampton (UK),Unknown,Unknown
+1094,Third class,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,,Southampton (UK),Unknown,Unknown
+1095,Third class,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,,Southampton (UK),Unknown,Unknown
+1096,Third class,"O'Sullivan, Miss. Bridget Mary",female,22.0,0,0,330909,7.6292,,Queenstown (IE),Unknown,Unknown
+1097,Third class,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,,Southampton (UK),Unknown,Unknown
+1098,Third class,"Palsson, Master. Paul Folke",male,6.0,3,1,349909,21.075,,Southampton (UK),Unknown,Unknown
+1099,Third class,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,,Southampton (UK),Unknown,Unknown
+1100,Third class,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,,Southampton (UK),Unknown,Unknown
+1101,Third class,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,21.075,,Southampton (UK),Unknown,Unknown
+1102,Third class,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1103,Third class,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1104,Third class,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1105,Third class,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1106,Third class,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1107,Third class,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1108,Third class,"Pasic, Mr. Jakob",male,21.0,0,0,315097,8.6625,,Southampton (UK),Unknown,Unknown
+1109,Third class,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,,Southampton (UK),Unknown,Unknown
+1110,Third class,"Paulner, Mr. Uscher",male,25.0,0,0,3411,8.7125,,Cherbourg (FR),Unknown,Unknown
+1111,Third class,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,7.8958,,Southampton (UK),Unknown,Unknown
+1112,Third class,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,Southampton (UK),Unknown,Unknown
+1113,Third class,"Peacock, Miss. Treasteall",female,3.0,1,1,SOTON/O.Q. 3101315,13.775,,Southampton (UK),Unknown,Unknown
+1114,Third class,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0,2,SOTON/O.Q. 3101315,13.775,,Southampton (UK),Unknown,Unknown
+1115,Third class,"Pearce, Mr. Ernest",male,25.0,0,0,343271,7.0,,Southampton (UK),Unknown,Unknown
+1116,Third class,"Pedersen, Mr. Olaf",male,25.0,0,0,345498,7.775,,Southampton (UK),Unknown,Unknown
+1117,Third class,"Peduzzi, Mr. Joseph",male,25.0,0,0,A/5 2817,8.05,,Southampton (UK),Unknown,Unknown
+1118,Third class,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,,Southampton (UK),Unknown,Unknown
+1119,Third class,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,STON/O 2. 3101291,7.925,,Southampton (UK),Unknown,Unknown
+1120,Third class,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,,Southampton (UK),Unknown,Unknown
+1121,Third class,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,7.775,,Southampton (UK),Unknown,Unknown
+1122,Third class,"Peter, Master. Michael J",male,25.0,1,1,2668,22.3583,,Cherbourg (FR),Unknown,Unknown
+1123,Third class,"Peter, Miss. Anna",female,22.0,1,1,2668,22.3583,F E69,Cherbourg (FR),Unknown,F
+1124,Third class,"Peter, Mrs. Catherine (Catherine Rizk)",female,22.0,0,2,2668,22.3583,,Cherbourg (FR),Unknown,Unknown
+1125,Third class,"Peters, Miss. Katie",female,22.0,0,0,330935,8.1375,,Queenstown (IE),Unknown,Unknown
+1126,Third class,"Petersen, Mr. Marius",male,24.0,0,0,342441,8.05,,Southampton (UK),Unknown,Unknown
+1127,Third class,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,,Southampton (UK),Unknown,Unknown
+1128,Third class,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,,Southampton (UK),Unknown,Unknown
+1129,Third class,"Petroff, Mr. Pastcho (""Pentcho"")",male,25.0,0,0,349215,7.8958,,Southampton (UK),Unknown,Unknown
+1130,Third class,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,,Southampton (UK),Unknown,Unknown
+1131,Third class,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,,Southampton (UK),Unknown,Unknown
+1132,Third class,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton (UK),Unknown,E
+1133,Third class,"Plotcharsky, Mr. Vasil",male,25.0,0,0,349227,7.8958,,Southampton (UK),Unknown,Unknown
+1134,Third class,"Pokrnic, Mr. Mate",male,17.0,0,0,315095,8.6625,,Southampton (UK),Unknown,Unknown
+1135,Third class,"Pokrnic, Mr. Tome",male,24.0,0,0,315092,8.6625,,Southampton (UK),Unknown,Unknown
+1136,Third class,"Radeff, Mr. Alexander",male,25.0,0,0,349223,7.8958,,Southampton (UK),Unknown,Unknown
+1137,Third class,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,22.0,0,0,65305,8.1125,,Southampton (UK),Unknown,Unknown
+1138,Third class,"Razi, Mr. Raihed",male,25.0,0,0,2629,7.2292,,Cherbourg (FR),Unknown,Unknown
+1139,Third class,"Reed, Mr. James George",male,25.0,0,0,362316,7.25,,Southampton (UK),Unknown,Unknown
+1140,Third class,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,,Southampton (UK),Unknown,Unknown
+1141,Third class,"Reynolds, Mr. Harold J",male,21.0,0,0,342684,8.05,,Southampton (UK),Unknown,Unknown
+1142,Third class,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1143,Third class,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1144,Third class,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1145,Third class,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1146,Third class,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1147,Third class,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,,Queenstown (IE),Unknown,Unknown
+1148,Third class,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22.0,0,0,3101295,39.6875,,Southampton (UK),Unknown,Unknown
+1149,Third class,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,,Southampton (UK),Unknown,Unknown
+1150,Third class,"Riordan, Miss. Johanna ""Hannah""",female,22.0,0,0,334915,7.7208,,Queenstown (IE),Unknown,Unknown
+1151,Third class,"Risien, Mr. Samuel Beard",male,25.0,0,0,364498,14.5,,Southampton (UK),Unknown,Unknown
+1152,Third class,"Risien, Mrs. Samuel (Emma)",female,22.0,0,0,364498,14.5,,Southampton (UK),Unknown,Unknown
+1153,Third class,"Robins, Mr. Alexander A",male,50.0,1,0,A/5. 3337,14.5,,Southampton (UK),Unknown,Unknown
+1154,Third class,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,,Southampton (UK),Unknown,Unknown
+1155,Third class,"Rogers, Mr. William John",male,25.0,0,0,S.C./A.4. 23567,8.05,,Southampton (UK),Unknown,Unknown
+1156,Third class,"Rommetvedt, Mr. Knud Paust",male,25.0,0,0,312993,7.775,,Southampton (UK),Unknown,Unknown
+1157,Third class,"Rosblom, Miss. Salli Helena",female,2.0,1,1,370129,20.2125,,Southampton (UK),Unknown,Unknown
+1158,Third class,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,,Southampton (UK),Unknown,Unknown
+1159,Third class,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,,Southampton (UK),Unknown,Unknown
+1160,Third class,"Roth, Miss. Sarah A",female,22.0,0,0,342712,8.05,,Southampton (UK),Unknown,Unknown
+1161,Third class,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,,Southampton (UK),Unknown,Unknown
+1162,Third class,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,,Southampton (UK),Unknown,Unknown
+1163,Third class,"Ryan, Mr. Edward",male,25.0,0,0,383162,7.75,,Queenstown (IE),Unknown,Unknown
+1164,Third class,"Ryan, Mr. Patrick",male,25.0,0,0,371110,24.15,,Queenstown (IE),Unknown,Unknown
+1165,Third class,"Saad, Mr. Amin",male,25.0,0,0,2671,7.2292,,Cherbourg (FR),Unknown,Unknown
+1166,Third class,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,,Cherbourg (FR),Unknown,Unknown
+1167,Third class,"Saade, Mr. Jean Nassr",male,25.0,0,0,2676,7.225,,Cherbourg (FR),Unknown,Unknown
+1168,Third class,"Sadlier, Mr. Matthew",male,25.0,0,0,367655,7.7292,,Queenstown (IE),Unknown,Unknown
+1169,Third class,"Sadowitz, Mr. Harry",male,25.0,0,0,LP 1588,7.575,,Southampton (UK),Unknown,Unknown
+1170,Third class,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,Southampton (UK),Unknown,Unknown
+1171,Third class,"Sage, Master. Thomas Henry",male,25.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1172,Third class,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1173,Third class,"Sage, Miss. Ada",female,22.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1174,Third class,"Sage, Miss. Constance Gladys",female,22.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1175,Third class,"Sage, Miss. Dorothy Edith ""Dolly""",female,22.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1176,Third class,"Sage, Miss. Stella Anna",female,22.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1177,Third class,"Sage, Mr. Douglas Bullen",male,25.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1178,Third class,"Sage, Mr. Frederick",male,25.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1179,Third class,"Sage, Mr. George John Jr",male,25.0,8,2,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1180,Third class,"Sage, Mr. John George",male,25.0,1,9,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1181,Third class,"Sage, Mrs. John (Annie Bullen)",female,22.0,1,9,CA. 2343,69.55,,Southampton (UK),Unknown,Unknown
+1182,Third class,"Salander, Mr. Karl Johan",male,24.0,0,0,7266,9.325,,Southampton (UK),Unknown,Unknown
+1183,Third class,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,Southampton (UK),Unknown,Unknown
+1184,Third class,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,,Southampton (UK),Unknown,Unknown
+1185,Third class,"Samaan, Mr. Elias",male,25.0,2,0,2662,21.6792,,Cherbourg (FR),Unknown,Unknown
+1186,Third class,"Samaan, Mr. Hanna",male,25.0,2,0,2662,21.6792,,Cherbourg (FR),Unknown,Unknown
+1187,Third class,"Samaan, Mr. Youssef",male,25.0,2,0,2662,21.6792,,Cherbourg (FR),Unknown,Unknown
+1188,Third class,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,PP 9549,16.7,G6,Southampton (UK),Unknown,G
+1189,Third class,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,Southampton (UK),Unknown,G
+1190,Third class,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,Southampton (UK),Unknown,G
+1191,Third class,"Sap, Mr. Julius",male,25.0,0,0,345768,9.5,,Southampton (UK),Unknown,Unknown
+1192,Third class,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,,Southampton (UK),Unknown,Unknown
+1193,Third class,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,,Southampton (UK),Unknown,Unknown
+1194,Third class,"Scanlan, Mr. James",male,25.0,0,0,36209,7.725,,Queenstown (IE),Unknown,Unknown
+1195,Third class,"Sdycoff, Mr. Todor",male,25.0,0,0,349222,7.8958,,Southampton (UK),Unknown,Unknown
+1196,Third class,"Shaughnessy, Mr. Patrick",male,25.0,0,0,370374,7.75,,Queenstown (IE),Unknown,Unknown
+1197,Third class,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,,Southampton (UK),Unknown,Unknown
+1198,Third class,"Shellard, Mr. Frederick William",male,25.0,0,0,C.A. 6212,15.1,,Southampton (UK),Unknown,Unknown
+1199,Third class,"Shine, Miss. Ellen Natalia",female,22.0,0,0,330968,7.7792,,Queenstown (IE),Unknown,Unknown
+1200,Third class,"Shorney, Mr. Charles Joseph",male,25.0,0,0,374910,8.05,,Southampton (UK),Unknown,Unknown
+1201,Third class,"Simmons, Mr. John",male,25.0,0,0,SOTON/OQ 392082,8.05,,Southampton (UK),Unknown,Unknown
+1202,Third class,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,,Cherbourg (FR),Unknown,Unknown
+1203,Third class,"Sirota, Mr. Maurice",male,25.0,0,0,392092,8.05,,Southampton (UK),Unknown,Unknown
+1204,Third class,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,,Southampton (UK),Unknown,Unknown
+1205,Third class,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,,Southampton (UK),Unknown,Unknown
+1206,Third class,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,,Southampton (UK),Unknown,Unknown
+1207,Third class,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,,Southampton (UK),Unknown,Unknown
+1208,Third class,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,,Southampton (UK),Unknown,Unknown
+1209,Third class,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,,Southampton (UK),Unknown,Unknown
+1210,Third class,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,,Southampton (UK),Unknown,Unknown
+1211,Third class,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,,Southampton (UK),Unknown,Unknown
+1212,Third class,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,,Southampton (UK),Unknown,Unknown
+1213,Third class,"Slabenoff, Mr. Petco",male,25.0,0,0,349214,7.8958,,Southampton (UK),Unknown,Unknown
+1214,Third class,"Slocovski, Mr. Selman Francis",male,25.0,0,0,SOTON/OQ 392086,8.05,,Southampton (UK),Unknown,Unknown
+1215,Third class,"Smiljanic, Mr. Mile",male,25.0,0,0,315037,8.6625,,Southampton (UK),Unknown,Unknown
+1216,Third class,"Smith, Mr. Thomas",male,25.0,0,0,384461,7.75,,Queenstown (IE),Unknown,Unknown
+1217,Third class,"Smyth, Miss. Julia",female,22.0,0,0,335432,7.7333,,Queenstown (IE),Unknown,Unknown
+1218,Third class,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,Southampton (UK),Unknown,F
+1219,Third class,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,,Southampton (UK),Unknown,Unknown
+1220,Third class,"Spector, Mr. Woolf",male,25.0,0,0,A.5. 3236,8.05,,Southampton (UK),Unknown,Unknown
+1221,Third class,"Spinner, Mr. Henry John",male,32.0,0,0,STON/OQ. 369943,8.05,,Southampton (UK),Unknown,Unknown
+1222,Third class,"Staneff, Mr. Ivan",male,25.0,0,0,349208,7.8958,,Southampton (UK),Unknown,Unknown
+1223,Third class,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,,Cherbourg (FR),Unknown,Unknown
+1224,Third class,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,,Southampton (UK),Unknown,Unknown
+1225,Third class,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,,Southampton (UK),Unknown,Unknown
+1226,Third class,"Storey, Mr. Thomas",male,60.5,0,0,3701,12.4155,,Southampton (UK),Unknown,Unknown
+1227,Third class,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,,Southampton (UK),Unknown,Unknown
+1228,Third class,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,9.8375,,Southampton (UK),Unknown,Unknown
+1229,Third class,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,,Southampton (UK),Unknown,Unknown
+1230,Third class,"Strilic, Mr. Ivan",male,27.0,0,0,315083,8.6625,,Southampton (UK),Unknown,Unknown
+1231,Third class,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,G6,Southampton (UK),Unknown,G
+1232,Third class,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,10.4625,G6,Southampton (UK),Unknown,G
+1233,Third class,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,,Southampton (UK),Unknown,Unknown
+1234,Third class,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,,Southampton (UK),Unknown,Unknown
+1235,Third class,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,,Southampton (UK),Unknown,Unknown
+1236,Third class,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,,Southampton (UK),Unknown,Unknown
+1237,Third class,"Svensson, Mr. Johan Cervin",male,14.0,0,0,7538,9.225,,Southampton (UK),Unknown,Unknown
+1238,Third class,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,,Southampton (UK),Unknown,Unknown
+1239,Third class,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,350033,7.7958,,Southampton (UK),Unknown,Unknown
+1240,Third class,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,,Southampton (UK),Unknown,Unknown
+1241,Third class,"Thomas, Master. Assad Alexander",male,0.4167,0,1,2625,8.5167,,Cherbourg (FR),Unknown,Unknown
+1242,Third class,"Thomas, Mr. Charles P",male,25.0,1,0,2621,6.4375,,Cherbourg (FR),Unknown,Unknown
+1243,Third class,"Thomas, Mr. John",male,25.0,0,0,2681,6.4375,,Cherbourg (FR),Unknown,Unknown
+1244,Third class,"Thomas, Mr. Tannous",male,25.0,0,0,2684,7.225,,Cherbourg (FR),Unknown,Unknown
+1245,Third class,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16.0,1,1,2625,8.5167,,Cherbourg (FR),Unknown,Unknown
+1246,Third class,"Thomson, Mr. Alexander Morrison",male,25.0,0,0,32302,8.05,,Southampton (UK),Unknown,Unknown
+1247,Third class,"Thorneycroft, Mr. Percival",male,25.0,1,0,376564,16.1,,Southampton (UK),Unknown,Unknown
+1248,Third class,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,22.0,1,0,376564,16.1,,Southampton (UK),Unknown,Unknown
+1249,Third class,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,,Southampton (UK),Unknown,Unknown
+1250,Third class,"Tobin, Mr. Roger",male,25.0,0,0,383121,7.75,F38,Queenstown (IE),Unknown,F
+1251,Third class,"Todoroff, Mr. Lalio",male,25.0,0,0,349216,7.8958,,Southampton (UK),Unknown,Unknown
+1252,Third class,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,,Southampton (UK),Unknown,Unknown
+1253,Third class,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,,Southampton (UK),Unknown,Unknown
+1254,Third class,"Torfa, Mr. Assad",male,25.0,0,0,2673,7.2292,,Cherbourg (FR),Unknown,Unknown
+1255,Third class,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,,Southampton (UK),Unknown,Unknown
+1256,Third class,"Toufik, Mr. Nakli",male,25.0,0,0,2641,7.2292,,Cherbourg (FR),Unknown,Unknown
+1257,Third class,"Touma, Master. Georges Youssef",male,7.0,1,1,2650,15.2458,,Cherbourg (FR),Unknown,Unknown
+1258,Third class,"Touma, Miss. Maria Youssef",female,9.0,1,1,2650,15.2458,,Cherbourg (FR),Unknown,Unknown
+1259,Third class,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,,Cherbourg (FR),Unknown,Unknown
+1260,Third class,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,,Southampton (UK),Unknown,Unknown
+1261,Third class,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,,Southampton (UK),Unknown,Unknown
+1262,Third class,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,,Southampton (UK),Unknown,Unknown
+1263,Third class,"van Billiard, Master. James William",male,25.0,1,1,A/5. 851,14.5,,Southampton (UK),Unknown,Unknown
+1264,Third class,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,Southampton (UK),Unknown,Unknown
+1265,Third class,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,,Southampton (UK),Unknown,Unknown
+1266,Third class,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,,Southampton (UK),Unknown,Unknown
+1267,Third class,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,,Southampton (UK),Unknown,Unknown
+1268,Third class,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,,Southampton (UK),Unknown,Unknown
+1269,Third class,"van Melkebeke, Mr. Philemon",male,25.0,0,0,345777,9.5,,Southampton (UK),Unknown,Unknown
+1270,Third class,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,,Southampton (UK),Unknown,Unknown
+1271,Third class,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,9.5,,Southampton (UK),Unknown,Unknown
+1272,Third class,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,9.5,,Southampton (UK),Unknown,Unknown
+1273,Third class,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,,Southampton (UK),Unknown,Unknown
+1274,Third class,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,,Southampton (UK),Unknown,Unknown
+1275,Third class,"Vander Planke, Mr. Julius",male,31.0,3,0,345763,18.0,,Southampton (UK),Unknown,Unknown
+1276,Third class,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,,Southampton (UK),Unknown,Unknown
+1277,Third class,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,Southampton (UK),Unknown,Unknown
+1278,Third class,"Vartanian, Mr. David",male,22.0,0,0,2658,7.225,,Cherbourg (FR),Unknown,Unknown
+1279,Third class,"Vendel, Mr. Olof Edvin",male,20.0,0,0,350416,7.8542,,Southampton (UK),Unknown,Unknown
+1280,Third class,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,,Southampton (UK),Unknown,Unknown
+1281,Third class,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,,Southampton (UK),Unknown,Unknown
+1282,Third class,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,,Southampton (UK),"Antwerp, Belgium / Stanton, OH",Unknown
+1283,Third class,"Ware, Mr. Frederick",male,25.0,0,0,359309,8.05,,Southampton (UK),Unknown,Unknown
+1284,Third class,"Warren, Mr. Charles William",male,25.0,0,0,C.A. 49867,7.55,,Southampton (UK),Unknown,Unknown
+1285,Third class,"Webber, Mr. James",male,25.0,0,0,SOTON/OQ 3101316,8.05,,Southampton (UK),Unknown,Unknown
+1286,Third class,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,,Southampton (UK),Unknown,Unknown
+1287,Third class,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,2688,7.2292,,Cherbourg (FR),Unknown,Unknown
+1288,Third class,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,,Southampton (UK),Unknown,Unknown
+1289,Third class,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,,Southampton (UK),Unknown,Unknown
+1290,Third class,"Wiklund, Mr. Karl Johan",male,21.0,1,0,3101266,6.4958,,Southampton (UK),Unknown,Unknown
+1291,Third class,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1,0,363272,7.0,,Southampton (UK),Unknown,Unknown
+1292,Third class,"Willer, Mr. Aaron (""Abi Weller"")",male,25.0,0,0,3410,8.7125,,Southampton (UK),Unknown,Unknown
+1293,Third class,"Willey, Mr. Edward",male,25.0,0,0,S.O./P.P. 751,7.55,,Southampton (UK),Unknown,Unknown
+1294,Third class,"Williams, Mr. Howard Hugh ""Harry""",male,25.0,0,0,A/5 2466,8.05,,Southampton (UK),Unknown,Unknown
+1295,Third class,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,,Southampton (UK),Unknown,Unknown
+1296,Third class,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,,Southampton (UK),Unknown,Unknown
+1297,Third class,"Wirz, Mr. Albert",male,27.0,0,0,315154,8.6625,,Southampton (UK),Unknown,Unknown
+1298,Third class,"Wiseman, Mr. Phillippe",male,25.0,0,0,A/4. 34244,7.25,,Southampton (UK),Unknown,Unknown
+1299,Third class,"Wittevrongel, Mr. Camille",male,36.0,0,0,345771,9.5,,Southampton (UK),Unknown,Unknown
+1300,Third class,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,,Cherbourg (FR),Unknown,Unknown
+1301,Third class,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,,Cherbourg (FR),Unknown,Unknown
+1302,Third class,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,,Cherbourg (FR),Unknown,Unknown
+1303,Third class,"Yousif, Mr. Wazli",male,25.0,0,0,2647,7.225,,Cherbourg (FR),Unknown,Unknown
+1304,Third class,"Yousseff, Mr. Gerious",male,25.0,0,0,2627,14.4583,,Cherbourg (FR),Unknown,Unknown
+1305,Third class,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,,Cherbourg (FR),Unknown,Unknown
+1306,Third class,"Zabour, Miss. Thamine",female,22.0,1,0,2665,14.4542,,Cherbourg (FR),Unknown,Unknown
+1307,Third class,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,Cherbourg (FR),Unknown,Unknown
+1308,Third class,"Zakarian, Mr. Ortin",male,27.0,0,0,2670,7.225,,Cherbourg (FR),Unknown,Unknown
+1309,Third class,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,,Southampton (UK),Unknown,Unknown
