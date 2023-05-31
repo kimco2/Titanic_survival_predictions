@@ -1,7 +1,7 @@
 # Predicting who survived the Titanic
 
 dashboards available:
-https://kimco2.github.io/who_survived_the_titanic/1
+https://kimco2.github.io/who_survived_the_titanic/
 
 
 ### **Purpose**
