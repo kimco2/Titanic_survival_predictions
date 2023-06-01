@@ -21,4 +21,4 @@ The main folder contains:
 - **index.html** - code used to create the webpage 
 - **Tableau_dashboard.twb** - dashboards that were created in tableau
 
-The folder **data_files** contains the initial data file used, as well as additional data files created after cleaning to use in sql, and tableau.
+The folder **data_files** contains the initial data file used, as well as additional data files created after cleaning to use in sql and tableau.
