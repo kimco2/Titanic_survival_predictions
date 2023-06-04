@@ -10,13 +10,14 @@ The complete titanic dataset available on [kaggle](https://www.kaggle.com/datase
 - Cleaning data in python
 - Exploratory data analysis
 - Creating a database in SQL and loading data into it
-- Connecting to SQL database in Python
+- Connecting to the SQL database in Python
 - Running logistic regression and machine learning on the data to create a classification model that predicts survivors
 - Using Tableau to create a dashboard, saving it to a webpage via HTML and git-hub pages
 
 ### **Web page**
-- A report is saved in the main folder as **Predicting_who_survived.pdf**
 - Dashboards can be [viewed online](https://kimco2.github.io/who_survived_the_titanic/)
+![titanic_passengers](titanic_passengers.png)
+![titanic_survival](titanic_survival.png)
 
 ### **Report**
 - A report is saved in the main folder as **Predicting_who_survived.pdf**
