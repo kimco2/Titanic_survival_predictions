@@ -6844,8 +6844,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1850' minheight='1850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='313' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='312' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='315' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='314' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='21625' id='36' type-v2='text' w='24900' x='1400' y='-375'>
                   <formatted-text>
                     <run fontalignment='2' fontcolor='#ffffff' fontname='Tableau Light' fontsize='20'>Which passengers had the greatest chance of survival?</run>
@@ -7415,8 +7415,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2300' minheight='2300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='347' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='346' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='349' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='348' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='3750' id='181' type-v2='text' w='34300' x='27400' y='500'>
                   <formatted-text>
                     <run fontcolor='#49657f' fontname='Tableau Light' fontsize='11'>POINT OF EMBARKMENT</run>
