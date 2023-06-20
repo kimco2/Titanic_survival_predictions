@@ -22,13 +22,13 @@ Additional detail on each stage is provided below.
    - One important field missing data was age. Passengers who did not have an age were assigned one based on the average age for a person of their sex and passenger class.
  - Data was explored and charts created to gain an understanding of the data and which passengers had higher survival rates.  Side by side bar charts were used to see the differences between groups.  An example is shown below.
 
- ![exploratory_example](exploratory_example.png)
+ ![exploratory_example](./images/exploratory_example.png)
 
 
 ### **Stage 2 - Creating a database in SQL and loading the data into it**
 - The cleaned data was split into two tables, one with passenger information and the other with survival information.  A SQL database was then created and the data saved into it.
 
-![erd](entity_relationship_diagram.png)
+![erd](./images/entity_relationship_diagram.png)
 
 ### **Stage 3 - Logistic Regression (using sklearn)**
 - Logistic regression was selected as it has good accuracy for simple datasets, is less inclined to over-fitting, and is easier to interpret and efficient to train.
@@ -38,7 +38,7 @@ Additional detail on each stage is provided below.
    - Including the title of passengers (extracted from their name)
    - Changing the train test split to 80/20.
 
-![lr](LR_output.png)
+![lr](./images/LR_output.png)
 
 ### **Stage 4 - Random Forest**
 - Random forest was selected as it is robust to outliers and noise in the data, additionally it ranks independent variables in order of importance helping to aid interpretation of the model.
@@ -46,13 +46,13 @@ Additional detail on each stage is provided below.
 - Changing the number of trees had minimal impact on the accuracy with all sitting in the realm of 78% to 79%.
 - Fare and age were found to be the most important features in the model, both at 22% importance each.
 
-![rf](random_forest_importance.png)
+![rf](./images/random_forest_importance.png)
 
 ### **Stage 4 - Data visualiation**
  - The data visualisation looked to provide an overview of Titanic passengers and the different survival rates.  
  - A webpage was created with tableau dashboards embedded . The webpage was deployed via [github-pages](https://kimco2.github.io/Titanic_survival_predictions/). Screen shots are provided below.
-![dashboard_1](dashboard_1.png)
-![dashboard_2](dashboard_2.png)
+![dashboard_1](./images/dashboard_1.png)
+![dashboard_2](./images/dashboard_2.png)
 
 <br>
 
