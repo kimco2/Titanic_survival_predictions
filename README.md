@@ -51,6 +51,7 @@ Additional detail on each stage is provided below.
 ### **Stage 4 - Data visualiation**
  - The data visualisation looked to provide an overview of Titanic passengers and the different survival rates.  
  - A webpage was created with tableau dashboards embedded . The webpage was deployed via [github-pages](https://kimco2.github.io/Titanic_survival_predictions/). Screen shots are provided below.
+ 
 ![dashboard_1](./images/dashboard_1.png)
 ![dashboard_2](./images/dashboard_2.png)
 
